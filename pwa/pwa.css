@@ -1,0 +1,30 @@
+/* ===== PWA 外殼樣式（由 build.py 注入） ===== */
+:root{--sat:env(safe-area-inset-top,0px);--sab:env(safe-area-inset-bottom,0px)}
+body{padding-bottom:var(--sab);-webkit-tap-highlight-color:transparent;overscroll-behavior-y:none}
+.pwa-box{margin-top:18px;padding:12px;border:1px solid var(--line);border-radius:11px;background:#18202a;display:grid;gap:8px}
+.pwa-box .pwa-ver{font-size:11px;color:var(--muted);line-height:1.5}
+.pwa-box .pwa-row{display:flex;gap:6px;flex-wrap:wrap}
+.pwa-btn{background:#303c49;border:1px solid #53606d;color:#fff;padding:7px 10px;border-radius:8px;cursor:pointer;font-size:12px}
+.pwa-btn:hover{background:#485867}
+.pwa-btn.gold{background:#5a4430;border-color:#a37b4f;color:#f5dcb9}
+.pwa-net{display:inline-block;font-size:11px;padding:2px 8px;border-radius:20px;border:1px solid #3f6b55;color:var(--green)}
+.pwa-net.off{border-color:#7e4a4a;color:var(--red)}
+.pwa-toast{position:fixed;left:50%;bottom:calc(18px + var(--sab));transform:translateX(-50%) translateY(140%);z-index:9999;background:#2a2219;border:1px solid #a37b4f;color:#f5dcb9;border-radius:12px;padding:12px 14px;display:flex;gap:12px;align-items:center;box-shadow:0 10px 30px #0008;transition:transform .3s ease;max-width:calc(100vw - 32px);white-space:nowrap}
+.pwa-toast.show{transform:translateX(-50%) translateY(0)}
+.pwa-ios{font-size:12px;color:var(--muted);display:none}
+@media(max-width:950px){
+  .sidebar{position:sticky;top:0;z-index:50;padding:calc(10px + var(--sat)) 12px 8px;border-right:0;border-bottom:1px solid var(--line);background:#141a21f2;backdrop-filter:blur(8px)}
+  .sidebar .brand{font-size:18px}
+  .sidebar>.sub,.sidebar nav+.sub{display:none}
+  .sidebar nav{display:flex!important;overflow-x:auto;gap:4px;margin-top:6px;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+  .sidebar nav::-webkit-scrollbar{display:none}
+  .sidebar nav button{flex:0 0 auto;white-space:nowrap;padding:7px 11px;font-size:14px}
+  .pwa-box{display:none}
+  .sidebar.pwa-open .pwa-box{display:grid}
+  .pwa-menu{display:inline-block!important}
+  .hero{min-height:200px}
+  .toolbar input{min-width:0;flex:1 1 100%}
+  .toolbar button{flex:1 1 auto;padding:9px 12px}
+}
+.pwa-menu{display:none;float:right;background:transparent;border:1px solid var(--line);color:var(--muted);border-radius:8px;padding:3px 9px;cursor:pointer;font-size:13px}
+@media print{.pwa-box,.pwa-toast,.pwa-menu{display:none!important}}
