@@ -118,8 +118,8 @@ function renderNav(cur){
 }
 let cur=null;
 function go(id,anchor){
-  const ch=G.chapters.find(c=>c.id===id);
-  if(!ch&&!PAGES[id])id=G.chapters[0].id;
+  let ch=G.chapters.find(c=>c.id===id);
+  if(!ch&&!PAGES[id]){ch=G.chapters[0];id=ch.id;anchor=null}
   cur=id;
   view.innerHTML=ch?chapterPage(ch):PAGES[id][1]();
   applyFilters();renderNav(id);
