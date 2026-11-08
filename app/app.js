@@ -28,8 +28,10 @@ function bossCard(b){
 function point(p){
   const id=p.r+':'+p.n, ok=!!S[p.k];
   const qs=(qStart[id]||[]).map(q=>`<span class="badge b-q" data-q="${q.id}">📜 ${esc(q.name)}</span>`).join('');
-  const name=p.zh||'';
-  return `${(bossAt[id]||[]).map(bossCard).join('')}<div class="pt${p.miss?' miss':''}${ok?' ok':''}" id="p-${esc(p.r)}-${p.n}" data-miss="${p.miss?1:0}"><input type="checkbox" data-k="${esc(p.k)}" ${ok?'checked':''} aria-label="${esc(p.r)} #${p.n}"><div><div class="top"><span class="num">${esc(p.r)} #${p.n}</span><span class="ty t-${esc(p.type)}">${esc(p.type)}</span>${p.chest?'<span class="badge b-chest">寶箱</span>':''}${p.miss?'<span class="badge b-miss">⚠ 易錯過</span>':''}${qs}${name?`<span class="nm">${esc(name)}</span>`:''}</div><div class="hint">${esc(p.hint)}</div><div class="en">${esc(p.en||'')}${p.en?' · ':''}<a href="${esc(p.link||`https://www.powerpyx.com/phantom-blade-zero-${SLUG[p.r]}-collectible-locations/`)}" target="_blank" rel="noopener">看原圖 #${p.n} ↗</a></div></div></div>`;
+  const bellEn=p.type==='鈴鐺'?(p.en||'').replace(/^Bell \((.*)\).*$/,'$1'):'';
+  const icon=p.type==='鈴鐺'?'🔔 ':'';
+  const nameHtml=p.zh?esc(icon+p.zh)+(p.zhGuess?' <span class="badge guess">暫譯</span>':''):(bellEn?esc(icon+bellEn):'');
+  return `${(bossAt[id]||[]).map(bossCard).join('')}<div class="pt${p.miss?' miss':''}${ok?' ok':''}" id="p-${esc(p.r)}-${p.n}" data-miss="${p.miss?1:0}"><input type="checkbox" data-k="${esc(p.k)}" ${ok?'checked':''} aria-label="${esc(p.r)} #${p.n}"><div><div class="top"><span class="num">${esc(p.r)} #${p.n}</span><span class="ty t-${esc(p.type)}">${esc(p.type)}</span>${p.chest?'<span class="badge b-chest">寶箱</span>':''}${p.miss?'<span class="badge b-miss">⚠ 易錯過</span>':''}${qs}${nameHtml?`<span class="nm">${nameHtml}</span>`:''}</div><div class="hint">${esc(p.hint)}</div><div class="en">${esc(p.en||'')}${p.en?' · ':''}<a href="${esc(p.link||`https://www.powerpyx.com/phantom-blade-zero-${SLUG[p.r]}-collectible-locations/`)}" target="_blank" rel="noopener">看原圖 #${p.n} ↗</a></div></div></div>`;
 }
 function block(b){
   switch(b.t){

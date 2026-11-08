@@ -5,7 +5,7 @@
    {
     "n": 1,
     "type": "鈴鐺",
-    "zh": "起點",
+    "zh": "開端之地",
     "en": "Bell (The Beginning)",
     "hint": "序章結束後自動解鎖起點鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%231%20%E2%80%93%20Bell"
@@ -13,9 +13,9 @@
    {
     "n": 2,
     "type": "鈴鐺",
-    "zh": "夫人裂隙",
+    "zh": "聖母像裂縫",
     "en": "Bell (The Lady’s Rift)",
-    "hint": "由腳手架右側梯子下降，找到「夫人裂隙」鈴鐺。",
+    "hint": "由腳手架右側梯子下降，找到「聖母像裂縫」鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%232%20%E2%80%93%20Bell"
    },
    {
@@ -23,7 +23,7 @@
     "type": "支線",
     "zh": "三面混沌",
     "en": "Triple Threat (Tale)",
-    "hint": "在夫人裂隙鈴鐺旁調查雕像，接取「三面混沌」。首訪先接，不必現在打高難度首領。",
+    "hint": "在聖母像裂縫鈴鐺旁調查雕像，接取「三面混沌」。首訪先接，不必現在打高難度首領。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%233%20%E2%80%93%20Triple"
    },
    {
@@ -31,7 +31,7 @@
     "type": "飾品",
     "zh": "獵人洞察",
     "en": "Hunter’s Insight (Accessory)",
-    "hint": "從夫人裂隙返回梯子上方，越過鎖鏈，擊敗鎖鏈後敵人取得飾品。",
+    "hint": "從聖母像裂縫返回梯子上方，越過鎖鏈，擊敗鎖鏈後敵人取得飾品。",
     "fight": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%234%20%E2%80%93%20Hunter%E2%80%99s"
    },
@@ -54,9 +54,9 @@
    {
     "n": 7,
     "type": "鈴鐺",
-    "zh": "初遇玉兒",
+    "zh": "初見玉兒處",
     "en": "Bell (First Meeting with Yu’er)",
-    "hint": "由瀑布旁梯子向上，開啟初遇玉兒鈴鐺。",
+    "hint": "由瀑布旁梯子向上，開啟初見玉兒處鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%237%20%E2%80%93%20Bell"
    },
    {
@@ -64,14 +64,14 @@
     "type": "飾品",
     "zh": "筋力綁帶",
     "en": "Battle Wraps (Accessory)",
-    "hint": "初遇玉兒鈴鐺越橋，擊敗正在交戰的持大劍敵人獲取綁帶。",
+    "hint": "初見玉兒處鈴鐺越橋，擊敗正在交戰的持大劍敵人獲取綁帶。",
     "fight": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%238%20%E2%80%93%20Battle"
    },
    {
     "n": 9,
     "type": "鈴鐺",
-    "zh": "紅線屏障",
+    "zh": "紅絲線障壁",
     "en": "Bell (Red Thread Barrier)",
     "hint": "靠近巨大紅線屏障，於旁邊小平台開鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%239%20%E2%80%93%20Bell"
@@ -79,9 +79,9 @@
    {
     "n": 10,
     "type": "鈴鐺",
-    "zh": "破碎傀儡谷",
+    "zh": "殘偶谷底",
     "en": "Bell (Broken Puppet Valley)",
-    "hint": "繼續前往屋舍附近小空地，開啟破碎傀儡谷鈴鐺。",
+    "hint": "繼續前往屋舍附近小空地，開啟殘偶谷底鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2310%20%E2%80%93%20Bell"
    },
    {
@@ -113,7 +113,7 @@
    {
     "n": 14,
     "type": "鈴鐺",
-    "zh": "殘鋼亭",
+    "zh": "鏽刃涼亭",
     "en": "Bell (Rustblade Pavilion)",
     "hint": "在狂暴巨漢戰鬥區旁啟動鏽刃亭鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2314%20%E2%80%93%20Bell"
@@ -129,9 +129,9 @@
    {
     "n": 16,
     "type": "鈴鐺",
-    "zh": "前哨站庭院、四凶斧第二卷",
+    "zh": "驛站前小院",
     "en": "Bell (Outpost Courtyard)",
-    "hint": "穿過有守衛把守的草地區，啟動前哨站庭院鈴鐺；右側屋內另有四凶斧第二線索。",
+    "hint": "穿過有守衛把守的草地區，啟動驛站前小院鈴鐺；右側屋內另有四凶斧第二線索。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2316%20%E2%80%93%20Bell"
    },
    {
@@ -139,7 +139,7 @@
     "type": "支線",
     "zh": "老弓手委託",
     "en": "Purge the Sect (Tales)",
-    "hint": "【限時】到前哨站屋頂找沉思老弓手接「清理門戶」，要在血色森林白赤練前完成。",
+    "hint": "【限時】到驛站屋頂找沉思老弓手接「清理門戶」，要在血色森林白赤練前完成。",
     "miss": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2317%20%E2%80%93%20Purge"
    },
@@ -148,13 +148,13 @@
     "type": "武器",
     "zh": "長形黑傷",
     "en": "Sanguine Reach (Weapon)",
-    "hint": "前哨站鍛爐正後方武器架取得血色長兵器。",
+    "hint": "驛站鍛爐正後方武器架取得血色長兵器。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2318%20%E2%80%93%20Sanguine"
    },
    {
     "n": 19,
     "type": "支線",
-    "zh": "前哨站隱情",
+    "zh": "驛站隱情",
     "en": "Festering Secrets (Tales)",
     "hint": "【限時】走近鍛爐旁守衛並完成對話，接「腐敗祕聞」；白赤練前完成。",
     "miss": true,
@@ -163,9 +163,9 @@
    {
     "n": 20,
     "type": "鈴鐺",
-    "zh": "前哨站",
+    "zh": "驛站",
     "en": "Bell (Outpost)",
-    "hint": "鍛爐旁開前哨站鈴鐺，往後多次回來交任務。",
+    "hint": "鍛爐旁開驛站鈴鐺，往後多次回來交任務。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2320%20%E2%80%93%20Bell"
    },
    {
@@ -173,7 +173,7 @@
     "type": "道具",
     "zh": "黑石①、牢房鑰匙",
     "en": "Blackstone Fragment",
-    "hint": "從前哨站鈴鐺直行上樓，到小庭院屍體取得牢房鑰匙；回前哨站入口下坡洞穴開牢門拿黑石。",
+    "hint": "從驛站鈴鐺直行上樓，到小庭院屍體取得牢房鑰匙；回驛站入口下坡洞穴開牢門拿黑石。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2321%20%E2%80%93%20Blackstone"
    },
    {
@@ -188,9 +188,9 @@
    {
     "n": 23,
     "type": "鈴鐺",
-    "zh": "斧主敗亡",
+    "zh": "斧老大斬落處",
     "en": "Bell (The Axemaster’s Fall)",
-    "hint": "在彭猛戰鬥場地中央啟動斧主敗亡鈴鐺。",
+    "hint": "在彭猛戰鬥場地中央啟動斧老大斬落處鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2323%20%E2%80%93%20Bell"
    },
    {
@@ -198,7 +198,7 @@
     "type": "殺氣琥珀",
     "zh": "殺氣琥珀③",
     "en": "Sha-Chi Amber Fragment",
-    "hint": "從前哨站鈴鐺破壞近旁柵欄，上階梯進屋清掉敵人取得琥珀；本段三名指定敵人打完後回報隊長。",
+    "hint": "從驛站鈴鐺破壞近旁柵欄，上階梯進屋清掉敵人取得琥珀；本段三名指定敵人打完後回報隊長。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2324%20%E2%80%93%20Sha-Chi"
    },
    {
@@ -206,14 +206,14 @@
     "type": "支線",
     "zh": "見習醫師",
     "en": "Apprentice Healer (Tales)",
-    "hint": "【限時】與前哨站鈴鐺旁玉兒談採藥，接「見習醫師」；一定在血色森林荊野前交三種藥草。",
+    "hint": "【限時】與驛站鈴鐺旁玉兒談採藥，接「見習醫師」；一定在血色森林荊野前交三種藥草。",
     "miss": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2325%20%E2%80%93%20Apprentice"
    },
    {
     "n": 26,
     "type": "鈴鐺",
-    "zh": "斧主囚室、四凶斧第三卷",
+    "zh": "斧老大關押處",
     "en": "Bell (The Axemaster’s Holding Cell)",
     "hint": "追命過場後在斧主囚室中央啟動鈴鐺；左側桌上有四凶斧第三線索。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2326%20%E2%80%93%20Bell"
@@ -223,7 +223,7 @@
     "type": "飾品",
     "zh": "護石",
     "en": "Boulderguard (Accessory)",
-    "hint": "【限時】事先在前哨站與箱後 NPC 談到「馬廄旁墳墓」，再從囚室順路調查墳墓取得防禦飾品。",
+    "hint": "【限時】事先在驛站與箱後 NPC 談到「馬廄旁墳墓」，再從囚室順路調查墳墓取得防禦飾品。",
     "miss": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2327%20%E2%80%93%20Boulderguard"
    },
@@ -264,9 +264,9 @@
    {
     "n": 32,
     "type": "鈴鐺",
-    "zh": "無情弓手營地",
+    "zh": "惡弓手營地",
     "en": "Bell (Ruthless Archer Camp)",
-    "hint": "從前項往上階梯啟動無情弓手營地鈴鐺。",
+    "hint": "從前項往上階梯啟動惡弓手營地鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2332%20%E2%80%93%20Bell"
    },
    {
@@ -274,16 +274,16 @@
     "type": "影之武裝",
     "zh": "羽弓",
     "en": "Feather Bow (Phantom Edge)",
-    "hint": "【限時】立刻帶斷弦弓回前哨站找老弓手修復，拿羽弓影之武裝；白赤練前完成。",
+    "hint": "【限時】立刻帶斷弦弓回驛站找老弓手修復，拿羽弓影之武裝；白赤練前完成。",
     "miss": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2333%20%E2%80%93%20Feather"
    },
    {
     "n": 34,
     "type": "鈴鐺",
-    "zh": "殺氣塔一樓",
+    "zh": "溪谷殺氣塔一層",
     "en": "Bell (Valley Sha-Chi Tower 1st Floor)",
-    "hint": "從弓手營地越過大型木橋並上階梯，啟動殺氣塔一樓鈴鐺。",
+    "hint": "從弓手營地越過大型木橋並上階梯，啟動溪谷殺氣塔一層鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2334%20%E2%80%93%20Bell"
    },
    {
@@ -298,17 +298,17 @@
    {
     "n": 36,
     "type": "鈴鐺",
-    "zh": "血肉花田、雙生血肉花",
+    "zh": "血肉花田",
     "en": "Bell (Flesh Lily Fields)",
-    "hint": "在阿花戰鬥場開啟花田鈴鐺；祭壇旁拾取雙生血肉花，盡快回前哨站交給玉兒。",
+    "hint": "在阿花戰鬥場開啟花田鈴鐺；祭壇旁拾取雙生血肉花，盡快回驛站交給玉兒。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2336%20%E2%80%93%20Bell"
    },
    {
     "n": 37,
     "type": "鈴鐺",
-    "zh": "殺氣塔頂",
+    "zh": "溪谷殺氣塔頂",
     "en": "Bell (Valley Sha-Chi Tower Summit)",
-    "hint": "返回殺氣塔一樓，入塔上階梯，啟動塔頂鈴鐺。",
+    "hint": "返回溪谷殺氣塔一層，入塔上階梯，啟動溪谷殺氣塔頂鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2337%20%E2%80%93%20Bell"
    },
    {
@@ -322,7 +322,7 @@
    {
     "n": 39,
     "type": "鈴鐺",
-    "zh": "瀑布橋",
+    "zh": "瀑布吊橋",
     "en": "Bell (Waterfall Bridge)",
     "hint": "由塔頂往更高處攀爬，落入橋區後啟動瀑布橋鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2339%20%E2%80%93%20Bell"
@@ -356,9 +356,9 @@
    {
     "n": 43,
     "type": "鈴鐺",
-    "zh": "龍柱眺望",
+    "zh": "遠眺龍柱處",
     "en": "Bell (Long Pillar Overlook)",
-    "hint": "從塔頂往屋頂再用鎖鐮爬至最高處取營地大門鑰匙；回溪谷平原入口打開大門，走右側到小屋內開龍柱眺望鈴鐺；小屋隊長可交四凶斧第四步。",
+    "hint": "從塔頂往屋頂再用鎖鐮爬至最高處取營地大門鑰匙；回溪谷平原入口打開大門，走右側到小屋內開遠眺龍柱處鈴鐺；小屋隊長可交四凶斧第四步。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2343%20%E2%80%93%20Bell"
    },
    {
@@ -366,7 +366,7 @@
     "type": "殺氣琥珀",
     "zh": "殺氣琥珀④",
     "en": "Sha-Chi Amber Fragment",
-    "hint": "龍柱眺望鈴鐺後方箱取生鏽龍匙；越橋、過腳手架地上撿凝葉草，開身後鎖門打倒敵人取得殺氣琥珀。",
+    "hint": "遠眺龍柱處鈴鐺後方箱取生鏽龍匙；越橋、過腳手架地上撿凝葉草，開身後鎖門打倒敵人取得殺氣琥珀。",
     "chest": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2344%20%E2%80%93%20Sha-Chi"
    },
@@ -399,7 +399,7 @@
     "type": "支線",
     "zh": "見習醫師交付",
     "en": "Medicine Case (Accessory)",
-    "hint": "從龍柱沿河道到盡頭取瑕金草；與凝葉草、止血藤一起交前哨站玉兒，領「藥箱」飾品，荊野前完成。",
+    "hint": "從龍柱沿河道到盡頭取瑕金草；與凝葉草、止血藤一起交驛站玉兒，領「藥箱」飾品，荊野前完成。",
     "miss": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2348%20%E2%80%93%20Medicine"
    },
@@ -408,7 +408,7 @@
     "type": "黑石碎片",
     "zh": "黑石③",
     "en": "Blackstone Fragment",
-    "hint": "從龍柱眺望鈴鐺越橋跳到村落，沿河往北，鉤到木平台開箱取得黑石。",
+    "hint": "從遠眺龍柱處鈴鐺越橋跳到村落，沿河往北，鉤到木平台開箱取得黑石。",
     "chest": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2349%20%E2%80%93%20Blackstone"
    },
@@ -417,13 +417,13 @@
     "type": "支線",
     "zh": "黑石④、四凶斧第五卷",
     "en": "Blackstone Fragment",
-    "hint": "從龍柱眺望鈴鐺返回塔下洞窟，上樓梯擊敗僧人取得黑石；階梯旁桌上有四凶斧第五線索。",
+    "hint": "從遠眺龍柱處鈴鐺返回塔下洞窟，上樓梯擊敗僧人取得黑石；階梯旁桌上有四凶斧第五線索。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2350%20%E2%80%93%20Blackstone"
    },
    {
     "n": 51,
     "type": "鈴鐺",
-    "zh": "殺氣塔底部",
+    "zh": "溪谷殺氣塔底",
     "en": "Bell (Valley Sha-Chi Tower Base)",
     "hint": "沿洞窟向前到殺氣塔底部，啟動鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2351%20%E2%80%93%20Bell"
@@ -433,7 +433,7 @@
     "type": "飾品",
     "zh": "反射裝置",
     "en": "Reflex Device (Accessory)",
-    "hint": "在殺氣塔底部鈴鐺旁使用前面保留的殺氣爐手柄，取得反射裝置飾品。",
+    "hint": "在溪谷殺氣塔底鈴鐺旁使用前面保留的殺氣爐手柄，取得反射裝置飾品。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2352%20%E2%80%93%20Reflex"
    },
    {
@@ -448,9 +448,9 @@
    {
     "n": 54,
     "type": "鈴鐺",
-    "zh": "緋紅山莊",
+    "zh": "紅房子",
     "en": "Bell (Crimson Manor)",
-    "hint": "回龍柱眺望鈴鐺，旁邊小洞穴內引誘背炸藥敵人炸開中央大鐵籠，乘電梯下降開啟緋紅山莊鈴鐺。",
+    "hint": "回遠眺龍柱處鈴鐺，旁邊小洞穴內引誘背炸藥敵人炸開中央大鐵籠，乘電梯下降開啟紅房子鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2354%20%E2%80%93%20Bell"
    },
    {
@@ -458,15 +458,15 @@
     "type": "鑄魂材料",
     "zh": "古代甲冑碎片",
     "en": "Ancient Armor Fragment (Accessory)",
-    "hint": "緋紅山莊鈴鐺左邊拾取古代甲冑碎片；首訪暫時無法深入。",
+    "hint": "紅房子鈴鐺左邊拾取古代甲冑碎片；首訪暫時無法深入。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2355%20%E2%80%93%20Ancient"
    },
    {
     "n": 56,
     "type": "鈴鐺",
-    "zh": "夫人洞窟",
+    "zh": "聖母像山洞",
     "en": "Bell (The Lady’s Cave)",
-    "hint": "【回訪：抵達陸家村並開啟一個不留支線】前哨站擊敗商店旁僧人取念珠；越過之前被 NPC 擋住的橋，到小鎮左屋破障礙進洞，取得夫人洞窟鈴鐺。",
+    "hint": "【回訪：抵達陸家村並開啟一個不留支線】驛站擊敗商店旁僧人取念珠；越過之前被 NPC 擋住的橋，到小鎮左屋破障礙進洞，取得聖母像山洞鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2356%20%E2%80%93%20Bell"
    },
    {
@@ -474,22 +474,22 @@
     "type": "支線",
     "zh": "神機戒指／彩色風車",
     "en": "Shenji’s Ring (Accessory) / Colorful Pinwheel (Key Item)",
-    "hint": "由夫人洞窟鈴鐺沿洞前進，出洞後右側寶箱取得神機戒；旁邊風車可拾取彩色風車；鉤上木平台取得四凶斧第六線索。",
+    "hint": "由聖母像山洞鈴鐺沿洞前進，出洞後右側寶箱取得神機戒；旁邊風車可拾取彩色風車；鉤上木平台取得四凶斧第六線索。",
     "chest": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2357%20%E2%80%93%20Shenji%E2%80%99s"
    },
    {
     "n": 58,
     "type": "記憶之花",
-    "zh": "緋紅山莊內部",
+    "zh": "紅房子內部",
     "en": "Memory Flower",
-    "hint": "【回訪：取得傀儡之舌】緋紅山莊開門，二樓陽台拿記憶之花。",
+    "hint": "【回訪：取得傀儡之舌】紅房子開門，二樓陽台拿記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2358%20%E2%80%93%20Memory"
    },
    {
     "n": 59,
     "type": "鈴鐺",
-    "zh": "拾荒者圈養場",
+    "zh": "清道夫豢養處",
     "en": "Bell (Scavenger Pens)",
     "hint": "由山莊一樓一路下降到地下木平台，啟動拾荒傀儡圈養場鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-weeping-creek-valley-collectible-locations/#:~:text=%2359%20%E2%80%93%20Bell"
@@ -519,7 +519,7 @@
    {
     "n": 1,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "血色森林",
     "en": "Bell (Crimson Forest)",
     "hint": "劇情過場結束後向正前方走，開啟血色森林鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%231%20%E2%80%93%20Bell"
@@ -535,9 +535,9 @@
    {
     "n": 3,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "荒廢官道",
     "en": "Bell (Abandoned Main Road)",
-    "hint": "跨過路障後沿道路邊，啟動荒廢大道鈴鐺。",
+    "hint": "跨過路障後沿道路邊，啟動荒廢官道鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%233%20%E2%80%93%20Bell"
    },
    {
@@ -560,9 +560,9 @@
    {
     "n": 6,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "遠眺龐鎮之橋",
     "en": "Bell (Pangzhen Bridge Overlook)",
-    "hint": "走到巨大橋旁路邊，啟動龐鎮大橋眺望鈴鐺。",
+    "hint": "走到巨大橋旁路邊，啟動遠眺龐鎮之橋鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%236%20%E2%80%93%20Bell"
    },
    {
@@ -593,9 +593,9 @@
    {
     "n": 10,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "掛籠小道",
     "en": "Bell (Trail of Cages)",
-    "hint": "繼續穿過洞穴，到崖面開啟囚籠小徑鈴鐺。",
+    "hint": "繼續穿過洞穴，到崖面開啟掛籠小道鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2310%20%E2%80%93%20Bell"
    },
    {
@@ -627,9 +627,9 @@
    {
     "n": 14,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "亡命徒陷阱",
     "en": "Bell (Outlaw Trap)",
-    "hint": "從妙手小張處沿崖壁越過洞穴、過橋，避開大敵人，左側開飛賊陷阱鈴鐺。",
+    "hint": "從妙手小張處沿崖壁越過洞穴、過橋，避開大敵人，左側開亡命徒陷阱鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2314%20%E2%80%93%20Bell"
    },
    {
@@ -637,7 +637,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "從飛賊陷阱鈴鐺回頭朝騎馬敵人方向，右側拾記憶之花；前面洞穴另取保命符碎片一和隧道手柄。",
+    "hint": "從亡命徒陷阱鈴鐺回頭朝騎馬敵人方向，右側拾記憶之花；前面洞穴另取保命符碎片一和隧道手柄。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2315%20%E2%80%93%20Memory"
    },
    {
@@ -654,7 +654,7 @@
     "type": "道具",
     "zh": "",
     "en": "Preservation Jar",
-    "hint": "從飛賊陷阱鈴鐺以隧道手柄開洞，走右橋取保命符碎片二，集齊合成保命罐。",
+    "hint": "從亡命徒陷阱鈴鐺以隧道手柄開洞，走右橋取保命符碎片二，集齊合成保命罐。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2317%20%E2%80%93%20Preservation"
    },
    {
@@ -712,7 +712,7 @@
    {
     "n": 24,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "飛賊營地",
     "en": "Bell (Thieves’ Camp)",
     "hint": "越過大木橋，正前方開啟飛賊營地鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2324%20%E2%80%93%20Bell"
@@ -773,32 +773,32 @@
     "type": "黑石碎片",
     "zh": "",
     "en": "Blackstone Fragment",
-    "hint": "出洞上階梯進左邊建築拿森林前哨站庭院鑰匙；出屋進另一房寶箱拿黑石。",
+    "hint": "出洞上階梯進左邊建築拿森林驛站前小院鑰匙；出屋進另一房寶箱拿黑石。",
     "chest": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2331%20%E2%80%93%20Blackstone"
    },
    {
     "n": 32,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "赤蛇屋",
     "en": "Bell (Red Serpent House)",
-    "hint": "解鎖森林前哨站庭院後，往前啟動紅蛇屋鈴鐺。",
+    "hint": "解鎖森林驛站前小院後，往前啟動赤蛇屋鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2332%20%E2%80%93%20Bell"
    },
    {
     "n": 33,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "人偶思鄉之崖",
     "en": "Bell (Cliff of Longing)",
-    "hint": "由紅蛇屋鈴鐺往山坡上，連續登階並攀上前方牆壁，啟動思念崖鈴鐺。",
+    "hint": "由赤蛇屋鈴鐺往山坡上，連續登階並攀上前方牆壁，啟動人偶思鄉之崖鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2333%20%E2%80%93%20Bell"
    },
    {
     "n": 34,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "懸崖山舍",
     "en": "Bell (Cliffside Lodge)",
-    "hint": "從思念崖下小崖、越斷橋，到旅舍後方開崖邊旅舍鈴鐺。",
+    "hint": "從人偶思鄉之崖下小崖、越斷橋，到旅舍後方開懸崖山舍鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2334%20%E2%80%93%20Bell"
    },
    {
@@ -879,7 +879,7 @@
    {
     "n": 44,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "鏡林入口",
     "en": "Bell (Mirrorwood Entrance)",
     "hint": "緊鄰前項，啟動鏡林入口鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2344%20%E2%80%93%20Bell"
@@ -912,7 +912,7 @@
    {
     "n": 48,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "鏡林龍柱",
     "en": "Bell (Mirrorwood Long Pillar)",
     "hint": "從前項走右岔路出洞，再入左側紅光區，開鏡林龍柱鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2348%20%E2%80%93%20Bell"
@@ -936,9 +936,9 @@
    {
     "n": 51,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "遺冢地",
     "en": "Bell (Burial Grounds)",
-    "hint": "從龍柱往河邊，盪過枝條後前方開墳場鈴鐺。",
+    "hint": "從龍柱往河邊，盪過枝條後前方開遺冢地鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2351%20%E2%80%93%20Bell"
    },
    {
@@ -946,7 +946,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "墳場鈴鐺正前方敵群旁取得記憶之花。",
+    "hint": "遺冢地鈴鐺正前方敵群旁取得記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2352%20%E2%80%93%20Memory"
    },
    {
@@ -960,9 +960,9 @@
    {
     "n": 54,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "迷霧消散處",
     "en": "Bell (Parting Mists)",
-    "hint": "虛空幻境過場後往下落，眼前開離別迷霧鈴鐺。",
+    "hint": "虛空幻境過場後往下落，眼前開迷霧消散處鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2354%20%E2%80%93%20Bell"
    },
    {
@@ -970,7 +970,7 @@
     "type": "挑戰",
     "zh": "",
     "en": "Banyan Tree (Challenge Location)",
-    "hint": "從離別迷霧鈴鐺落下往右邊大榕樹互動，完成多波敵人挑戰，最後需再戰荊野。",
+    "hint": "從迷霧消散處鈴鐺落下往右邊大榕樹互動，完成多波敵人挑戰，最後需再戰荊野。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2355%20%E2%80%93%20Banyan"
    },
    {
@@ -992,7 +992,7 @@
    {
     "n": 58,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "鏡林深處",
     "en": "Bell (Mirrorwood Depths)",
     "hint": "前一朵花正後方開鏡林深處鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2358%20%E2%80%93%20Bell"
@@ -1024,9 +1024,9 @@
    {
     "n": 62,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "絲線纏繞的巨樹",
     "en": "Bell (Threadbound Great Tree)",
-    "hint": "完成第二段驅霧機關後正前方，開牽線巨樹鈴鐺。",
+    "hint": "完成第二段驅霧機關後正前方，開絲線纏繞的巨樹鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2362%20%E2%80%93%20Bell"
    },
    {
@@ -1076,9 +1076,9 @@
    {
     "n": 68,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "湖岸拱橋",
     "en": "Bell (Lakeside Arch Bridge)",
-    "hint": "附近石橋上開湖邊拱橋鈴鐺；妙手小張洞口附近擊敗敵人另取飛賊手冊，供陸家村受傷飛賊使用。",
+    "hint": "附近石橋上開湖岸拱橋鈴鐺；妙手小張洞口附近擊敗敵人另取飛賊手冊，供陸家村受傷飛賊使用。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2368%20%E2%80%93%20Bell"
    },
    {
@@ -1086,7 +1086,7 @@
     "type": "飾品",
     "zh": "",
     "en": "Frostward (Accessory)",
-    "hint": "【回訪：進入戲夢山莊後冰雪化】從墳場鈴鐺一路往前上坡，前方落下處拾冰霜防護飾品。",
+    "hint": "【回訪：進入戲夢山莊後冰雪化】從遺冢地鈴鐺一路往前上坡，前方落下處拾冰霜防護飾品。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2369%20%E2%80%93%20Frostward"
    },
    {
@@ -1134,7 +1134,7 @@
     "type": "鈴鐺",
     "zh": "",
     "en": "Bell (Crimson Forest Sha-Chi Tower Base)",
-    "hint": "從六樓鈴鐺搭電梯下樓，沿路到梯子旁啟動殺氣塔底部鈴鐺。",
+    "hint": "從六樓鈴鐺搭電梯下樓，沿路到梯子旁啟動溪谷殺氣塔底鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2375%20%E2%80%93%20Bell"
    },
    {
@@ -1192,23 +1192,23 @@
     "type": "鑄魂材料",
     "zh": "",
     "en": "Worldbreaker Fist (Tempering Material)",
-    "hint": "從墳場鈴鐺與左前方大墓碑互動，取得破界拳鑄魂材料。",
+    "hint": "從遺冢地鈴鐺與左前方大墓碑互動，取得破界拳鑄魂材料。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2382%20%E2%80%93%20Worldbreaker"
    },
    {
     "n": 83,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "迷霧消散處",
     "en": "Bell (Parting Mists) – Recollect",
-    "hint": "【冰雪重啟】墳場鈴鐺沿前路下坡穿霧，重開離別迷霧鈴鐺。",
+    "hint": "【冰雪重啟】遺冢地鈴鐺沿前路下坡穿霧，重開迷霧消散處鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2383%20%E2%80%93%20Bell"
    },
    {
     "n": 84,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "鏡林深處",
     "en": "Bell (Mirrorwood Depths) – Recollect",
-    "hint": "【冰雪重啟】從離別迷霧向下到林中門口，重開鏡林深處鈴鐺。",
+    "hint": "【冰雪重啟】從迷霧消散處向下到林中門口，重開鏡林深處鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2384%20%E2%80%93%20Bell"
    },
    {
@@ -1230,9 +1230,9 @@
    {
     "n": 87,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "絲線纏繞的巨樹",
     "en": "Bell (Threadbound Great Tree) – Recollect",
-    "hint": "【冰雪重啟】從前項繼續往前，重開牽線巨樹鈴鐺。",
+    "hint": "【冰雪重啟】從前項繼續往前，重開絲線纏繞的巨樹鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2387%20%E2%80%93%20Bell"
    },
    {
@@ -1257,7 +1257,7 @@
    {
     "n": 90,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "鏡林龍柱",
     "en": "Bell (Mirrorwood Long Pillar) – Recollect",
     "hint": "【冰雪重啟】從鏡林入口走主路出洞，左側重開鏡林龍柱鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2390%20%E2%80%93%20Bell"
@@ -1267,7 +1267,7 @@
     "type": "鑄魂材料",
     "zh": "",
     "en": "Song of Parting (Tempering Material)",
-    "hint": "【回訪：取得虎炮】崖邊旅舍鈴鐺往地下室，下隧道向北到底炸開牆，領離別之歌鑄魂材料。",
+    "hint": "【回訪：取得虎炮】懸崖山舍鈴鐺往地下室，下隧道向北到底炸開牆，領離別之歌鑄魂材料。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-crimson-forest-collectible-locations/#:~:text=%2391%20%E2%80%93%20Song"
    }
   ]
@@ -1278,7 +1278,7 @@
    {
     "n": 1,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "夢醒之地",
     "en": "Bell (Place of Awakening)",
     "hint": "進入陸家村後自動解鎖覺醒之地鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%231%20%E2%80%93%20Bell"
@@ -1295,17 +1295,17 @@
    {
     "n": 3,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "岔路口",
     "en": "Bell (Crossroads)",
-    "hint": "從玉兒處順坡往下，左側啟動十字路口鈴鐺。",
+    "hint": "從玉兒處順坡往下，左側啟動岔路口鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%233%20%E2%80%93%20Bell"
    },
    {
     "n": 4,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "正道大營外門",
     "en": "Bell (Mandate Encampment Outer Gate)",
-    "hint": "從十字路口鈴鐺沿山脊前進不要跳下，鎖門前開正道大營外門鈴鐺。",
+    "hint": "從岔路口鈴鐺沿山脊前進不要跳下，鎖門前開正道大營外門鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%234%20%E2%80%93%20Bell"
    },
    {
@@ -1319,7 +1319,7 @@
    {
     "n": 6,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "老根頭藏身處",
     "en": "Bell (Old Man Gen’s Hideout)",
     "hint": "回十字路口，跳下懸崖沿路找老根頭，爬梯到其住處開鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%236%20%E2%80%93%20Bell"
@@ -1335,7 +1335,7 @@
    {
     "n": 8,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "蘭公子藏身處",
     "en": "Bell (Young Master Lan’s Hideout)",
     "hint": "老根頭住處上橋後從左側落下，沿傀儡抓牆處攀上，到蘭家大少藏身處開鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%238%20%E2%80%93%20Bell"
@@ -1385,7 +1385,7 @@
    {
     "n": 14,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "三人偶水井",
     "en": "Bell (Well of the Three Puppets)",
     "hint": "過橋左側開三人偶水井鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2314%20%E2%80%93%20Bell"
@@ -1418,9 +1418,9 @@
    {
     "n": 18,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "幽藍螢火之廟",
     "en": "Bell (Temple of Blue Fireflies)",
-    "hint": "從河道上坡走左路，於寺廟旁開藍螢寺鈴鐺；旁邊樹上收大小姐（少主）緞帶一。",
+    "hint": "從河道上坡走左路，於寺廟旁開幽藍螢火之廟鈴鐺；旁邊樹上收大小姐（少主）緞帶一。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2318%20%E2%80%93%20Bell"
    },
    {
@@ -1468,7 +1468,7 @@
    {
     "n": 24,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "大廊橋",
     "en": "Bell (Covered Bridge)",
     "hint": "從屋舍跳下沿前路，開廊橋鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2324%20%E2%80%93%20Bell"
@@ -1484,7 +1484,7 @@
    {
     "n": 26,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "陸家村小張藏身處",
     "en": "Bell (Zhang’s Hideout, Village of Lu)",
     "hint": "由田野右側跳河，穿過洞穴到妙手小張陸家村藏身處，啟動鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2326%20%E2%80%93%20Bell"
@@ -1500,7 +1500,7 @@
    {
     "n": 28,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "黑蛇屋",
     "en": "Bell (Black Serpent House)",
     "hint": "通過樹對面的紅神龕區域，再穿房屋，前方開黑蛇屋鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2328%20%E2%80%93%20Bell"
@@ -1518,7 +1518,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "【大小姐（少主）緞帶二】廊橋鈴鐺從解除封鎖的橋走到中段，取綁在柱上的緞帶；過橋在岔路走右，入屋下梯再出去崖邊拾取記憶之花。",
+    "hint": "【大小姐（少主）緞帶二】大廊橋鈴鐺從解除封鎖的橋走到中段，取綁在柱上的緞帶；過橋在岔路走右，入屋下梯再出去崖邊拾取記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2330%20%E2%80%93%20Memory"
    },
    {
@@ -1532,9 +1532,9 @@
    {
     "n": 32,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "雕像場前",
     "en": "Bell (Statue Grounds Entrance)",
-    "hint": "從崖邊回院子上階梯，啟動雕像場入口鈴鐺。",
+    "hint": "從崖邊回院子上階梯，啟動雕像場前鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2332%20%E2%80%93%20Bell"
    },
    {
@@ -1549,9 +1549,9 @@
    {
     "n": 34,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "聖母雕像場",
     "en": "Bell (The Lady Grounds) / Young Mistress Objective 3",
-    "hint": "畢遠戰場內啟動夫人場地鈴鐺；休息後取得第三條緞帶。",
+    "hint": "畢遠戰場內啟動聖母雕像場鈴鐺；休息後取得第三條緞帶。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2334%20%E2%80%93%20Bell"
    },
    {
@@ -1559,7 +1559,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "夫人場地鈴鐺正旁拾取記憶之花。",
+    "hint": "聖母雕像場鈴鐺正旁拾取記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2335%20%E2%80%93%20Memory"
    },
    {
@@ -1581,9 +1581,9 @@
    {
     "n": 38,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "飛賊藏寶地窖",
     "en": "Bell (Smuggler’s Treasure Cellar)",
-    "hint": "沿主路過敵群與小門後右轉，上樓梯開走私寶藏地窖鈴鐺。",
+    "hint": "沿主路過敵群與小門後右轉，上樓梯開飛賊藏寶地窖鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2338%20%E2%80%93%20Bell"
    },
    {
@@ -1597,7 +1597,7 @@
    {
     "n": 40,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "飛賊密道入口",
     "en": "Bell (Smuggler’s Tunnel Entrance)",
     "hint": "從前項進小隧道，跳過木牆繼續往前，到走私隧道入口鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2340%20%E2%80%93%20Bell"
@@ -1648,7 +1648,7 @@
    {
     "n": 46,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "梯田",
     "en": "Bell (Terraces)",
     "hint": "回橋上沿階梯往上，到梯田鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2346%20%E2%80%93%20Bell"
@@ -1672,9 +1672,9 @@
    {
     "n": 49,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "機關巨怪殘骸",
     "en": "Bell (Engine Giant Remains)",
-    "hint": "沿梯田路上行，在巨大建築旁開機關巨像殘骸鈴鐺。",
+    "hint": "沿梯田路上行，在巨大建築旁開機關巨怪殘骸鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2349%20%E2%80%93%20Bell"
    },
    {
@@ -1696,7 +1696,7 @@
    {
     "n": 52,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "倖存者小院",
     "en": "Bell (Survivors’ Courtyard)",
     "hint": "搭滑索下降清敵後調查附近有人對話的門；進入倖存者院落開鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2352%20%E2%80%93%20Bell"
@@ -1706,7 +1706,7 @@
     "type": "飾品",
     "zh": "",
     "en": "Agarwood Prayer Beads (Accessory)",
-    "hint": "【永久分歧】與莊嚴僧人對話務必選「不相信」，交早先前哨站僧人的念珠取沉香念珠；選「相信」NPC 會石化失去獎勵。",
+    "hint": "【永久分歧】與莊嚴僧人對話務必選「不相信」，交早先驛站僧人的念珠取沉香念珠；選「相信」NPC 會石化失去獎勵。",
     "miss": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2353%20%E2%80%93%20Agarwood"
    },
@@ -1757,15 +1757,15 @@
     "type": "飾品",
     "zh": "",
     "en": "A Puppet’s Wooden Heart (Accessory)",
-    "hint": "回機關巨像殘骸鈴鐺，下方篝火旁調查裴的屍體；再到藍螢寺找歌姬傀儡交任務取得人偶木心飾品。",
+    "hint": "回機關巨怪殘骸鈴鐺，下方篝火旁調查裴的屍體；再到幽藍螢火之廟找歌姬傀儡交任務取得人偶木心飾品。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2359%20%E2%80%93%20A"
    },
    {
     "n": 60,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "殘偶棄置坑口",
     "en": "Bell (Broken Puppet Pit Entrance)",
-    "hint": "收齊藍螢寺相關六朵記憶之花後，從寺內神龕霧門進入，沿路到釣魚者旁開破碎傀儡坑入口鈴鐺。",
+    "hint": "收齊幽藍螢火之廟相關六朵記憶之花後，從寺內神龕霧門進入，沿路到釣魚者旁開殘偶棄置坑口鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2360%20%E2%80%93%20Bell"
    },
    {
@@ -1779,9 +1779,9 @@
    {
     "n": 62,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "殘偶棄置坑底",
     "en": "Bell (Broken Puppet Pit Bottom)",
-    "hint": "操偶師暮戰場內開破碎傀儡坑底鈴鐺。",
+    "hint": "操偶師暮戰場內開殘偶棄置坑底鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2362%20%E2%80%93%20Bell"
    },
    {
@@ -1795,7 +1795,7 @@
    {
     "n": 64,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "水井之下",
     "en": "Bell (Beneath the Well)",
     "hint": "緊接前項，啟動井底鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2364%20%E2%80%93%20Bell"
@@ -1812,9 +1812,9 @@
    {
     "n": 66,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "人偶試驗場",
     "en": "Bell (Puppet Testing Grounds)",
-    "hint": "玉瓚戰鬥場地內開傀儡試驗場鈴鐺。",
+    "hint": "玉瓚戰鬥場地內開人偶試驗場鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2366%20%E2%80%93%20Bell"
    },
    {
@@ -1858,15 +1858,15 @@
     "type": "黑石碎片",
     "zh": "",
     "en": "Blackstone Fragment",
-    "hint": "回傀儡試驗場鈴鐺進走私隧道，打掉解除紅線障礙的敵人，背後取得黑石；同房桌上拿隧道牢籠鑰匙。",
+    "hint": "回人偶試驗場鈴鐺進走私隧道，打掉解除紅線障礙的敵人，背後取得黑石；同房桌上拿隧道牢籠鑰匙。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2371%20%E2%80%93%20Blackstone"
    },
    {
     "n": 72,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "通向龐鎮的密道",
     "en": "Bell (Hidden Passage to Pangzhen)",
-    "hint": "穿隧道到階梯，使用牢籠鑰匙打開右門與受困飛賊談話取地窖鑰匙；上樓搭電梯後啟動通往龐鎮祕道鈴鐺。",
+    "hint": "穿隧道到階梯，使用牢籠鑰匙打開右門與受困飛賊談話取地窖鑰匙；上樓搭電梯後啟動通向龐鎮的密道鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2372%20%E2%80%93%20Bell"
    },
    {
@@ -1874,7 +1874,7 @@
     "type": "飾品",
     "zh": "",
     "en": "Remnant Spark Cage (Accessory)",
-    "hint": "返回走私寶藏地窖鈴鐺，用陸家村地窖鑰匙開門，在地窖寶箱取殘燼籠飾品；老根頭、蘭家大少有新對話記得回去。",
+    "hint": "返回飛賊藏寶地窖鈴鐺，用陸家村地窖鑰匙開門，在地窖寶箱取殘燼籠飾品；老根頭、蘭家大少有新對話記得回去。",
     "chest": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-village-of-lu-collectible-locations/#:~:text=%2373%20%E2%80%93%20Remnant"
    },
@@ -1911,15 +1911,15 @@
    {
     "n": 1,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "秘密卸貨處",
     "en": "Bell (Hidden Storehouse)",
-    "hint": "初入龐鎮，隱藏倉庫鈴鐺自動啟用；從此處開始先開路邊鈴鐺再搜尋高低樓層。",
+    "hint": "初入龐鎮，隱藏倉庫鈴鐺自動啟用；從此處開秘密卸貨處鈴鐺再搜尋高低樓層。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%231%20%E2%80%93%20Bell"
    },
    {
     "n": 2,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "廢棄酒窖",
     "en": "Bell (Abandoned Wine Cellar)",
     "hint": "從隱藏倉庫鈴鐺穿越室內，直到走到戶外，正前方開啟廢棄酒窖鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%232%20%E2%80%93%20Bell"
@@ -1944,9 +1944,9 @@
    {
     "n": 5,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "南門廊橋",
     "en": "Bell (South Gate Bridge)",
-    "hint": "順著屋頂前進，從屋頂破洞落入建築；出門回到街道，正前方開南門橋鈴鐺。",
+    "hint": "順著屋頂前進，從屋頂破洞落入建築；出門回到街道，正前方開南門廊橋鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%235%20%E2%80%93%20Bell"
    },
    {
@@ -1954,7 +1954,7 @@
     "type": "飾品",
     "zh": "",
     "en": "Flameward (Accessory)",
-    "hint": "由南門橋鈴鐺走入空地，從右側階梯登上小陽台，開寶箱取得抗火飾品。",
+    "hint": "由南門廊橋鈴鐺走入空地，從右側階梯登上小陽台，開寶箱取得抗火飾品。",
     "chest": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%236%20%E2%80%93%20Flameward"
    },
@@ -1970,17 +1970,17 @@
    {
     "n": 8,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "景煬軒",
     "en": "Bell (Jingyang Hall)",
-    "hint": "從焰的戰鬥場地往左側祠堂走，入口旁開景陽殿鈴鐺。",
+    "hint": "從焰的戰鬥場地往左側祠堂走，入口旁開景煬軒鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%238%20%E2%80%93%20Bell"
    },
    {
     "n": 9,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "市集",
     "en": "Bell (Marketplace)",
-    "hint": "由景陽殿鈴鐺攀上建築，續走主路登上長階梯，在上方開集市鈴鐺。",
+    "hint": "由景煬軒鈴鐺攀上建築，續走主路登上長階梯，在上方開集市鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%239%20%E2%80%93%20Bell"
    },
    {
@@ -1988,7 +1988,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "集市鈴鐺正前方房屋內收集記憶之花，先不要急著離開這棟樓。",
+    "hint": "市集鈴鐺正前方房屋內收集記憶之花，先不要急著離開這棟樓。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2310%20%E2%80%93%20Memory"
    },
    {
@@ -2002,9 +2002,9 @@
    {
     "n": 12,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "黃家宅邸前路口",
     "en": "Bell (Huang Manor Crossroads)",
-    "hint": "返回集市鈴鐺，上樓梯至盡頭，開黃府岔路鈴鐺。",
+    "hint": "返回集市鈴鐺，上樓梯至盡頭，開黃家宅邸前路口鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2312%20%E2%80%93%20Bell"
    },
    {
@@ -2012,15 +2012,15 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "從黃府岔路沿正前方街道走，路邊收集記憶之花。",
+    "hint": "從黃家宅邸前路口沿正前方街道走，路邊收集記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2313%20%E2%80%93%20Memory"
    },
    {
     "n": 14,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "八卦閣前路口",
     "en": "Bell (Pavilion of Knowledge Crossroads)",
-    "hint": "黃府岔路右側上樓梯，再往前靠近下一段樓梯，開博識閣岔路鈴鐺。【順路】若陸家村已告知蘭家大少隧道打通，過街接近他可領蘭府鑰匙。",
+    "hint": "黃家宅邸前路口右側上樓梯，再往前靠近下一段樓梯，開八卦閣前路口鈴鐺。【順路】若陸家村已告知蘭家大少隧道打通，過街接近他可領蘭府鑰匙。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2314%20%E2%80%93%20Bell"
    },
    {
@@ -2036,7 +2036,7 @@
     "type": "鑄魂材料",
     "zh": "",
     "en": "Blood Oath Dagger (Tempering Material)",
-    "hint": "博識閣岔路右側大樓，沿塔樓清敵攀上屋頂取得頂樓鑰匙；開附近門，若悲泣溪谷四凶斧書冊已蒐齊，與智慧之子交談領取鑄魂材料血誓匕首。",
+    "hint": "八卦閣前路口右側大樓，沿塔樓清敵攀上屋頂取得頂樓鑰匙；開附近門，若悲泣溪谷四凶斧書冊已蒐齊，與智慧之子交談領取鑄魂材料血誓匕首。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2316%20%E2%80%93%20Blood"
    },
    {
@@ -2044,7 +2044,7 @@
     "type": "殺氣琥珀",
     "zh": "",
     "en": "Sha-Chi Amber Fragment",
-    "hint": "博識閣岔路上樓、穿過巷弄，登上右側建築陽台，走到底開箱取得殺氣琥珀碎片。",
+    "hint": "八卦閣前路口上樓、穿過巷弄，登上右側建築陽台，走到底開箱取得殺氣琥珀碎片。",
     "chest": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2317%20%E2%80%93%20Sha-Chi"
    },
@@ -2085,7 +2085,7 @@
    {
     "n": 22,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "幻鬼酒館",
     "en": "Bell (Myst’s Tavern)",
     "hint": "幻鬼（Myst）所在地旁右側走廊，啟動幻鬼酒館鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2322%20%E2%80%93%20Bell"
@@ -2136,7 +2136,7 @@
     "type": "飾品",
     "zh": "",
     "en": "Manor Medicine Pot (Accessory)",
-    "hint": "黃府岔路以牛掌櫃給的鑰匙開黃府：呢喃傀儡房取藥罐鍊條，樓梯旁右走廊取把手、樓上櫃子取罐身、臥室樓梯屍體取罐蓋；四件合成黃府藥罐飾品。",
+    "hint": "黃家宅邸前路口以牛掌櫃給的鑰匙開黃府：呢喃傀儡房取藥罐鍊條，樓梯旁右走廊取把手、樓上櫃子取罐身、臥室樓梯屍體取罐蓋；四件合成黃府藥罐飾品。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2328%20%E2%80%93%20Manor"
    },
    {
@@ -2175,17 +2175,17 @@
    {
     "n": 33,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "鎮南水塘",
     "en": "Bell (South Town Pond)",
-    "hint": "從 #32 房間落至地面，取左側通往水池的路，開南城池塘鈴鐺。",
+    "hint": "從 #32 房間落至地面，取左側通往水池的路，開鎮南水塘鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2333%20%E2%80%93%20Bell"
    },
    {
     "n": 34,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "後街牌坊",
     "en": "Bell (Backstreet Archway)",
-    "hint": "由南城池塘原路上樓，沿街道過橋，橋後正前方開後街牌樓鈴鐺。",
+    "hint": "由鎮南水塘原路上樓，沿街道過橋，橋後正前方開後街牌坊鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2334%20%E2%80%93%20Bell"
    },
    {
@@ -2209,9 +2209,9 @@
    {
     "n": 37,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "龐鎮小張藏身處",
     "en": "Bell (Zhang’s Hideout, Pangzhen)",
-    "hint": "從墮落將軍武軒場地進右側屋舍、由後門出，走進前方另一間建築開啟龐鎮妙手小張藏身處鈴鐺。",
+    "hint": "從墮落將軍武軒場地進右側屋舍、由後門出，走進前方另一間建築開啟龐鎮小張藏身處鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2337%20%E2%80%93%20Bell"
    },
    {
@@ -2225,9 +2225,9 @@
    {
     "n": 39,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "後街乘涼處",
     "en": "Bell (Backstreet Rest)",
-    "hint": "離開小張藏身處，走上戶外長階梯，在頂端開後街歇腳鈴鐺。",
+    "hint": "離開小張藏身處，走上戶外長階梯，在頂端開後街乘涼處鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2339%20%E2%80%93%20Bell"
    },
    {
@@ -2235,7 +2235,7 @@
     "type": "黑石碎片",
     "zh": "",
     "en": "Blackstone Fragment",
-    "hint": "後街歇腳鈴鐺正前方清除敵人，收集掉落的黑石碎片。",
+    "hint": "後街乘涼處鈴鐺正前方清除敵人，收集掉落的黑石碎片。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2340%20%E2%80%93%20Blackstone"
    },
    {
@@ -2265,9 +2265,9 @@
    {
     "n": 44,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "窄巷民居二樓",
     "en": "Bell (Narrow Alley Residence 2nd Floor)",
-    "hint": "從 #43 往回到左側木階梯，上去穿過民居，在二樓啟動窄巷民居鈴鐺。",
+    "hint": "從 #43 往回到左側木階梯，上去穿過民居，在二樓啟動窄巷民居二樓鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2344%20%E2%80%93%20Bell"
    },
    {
@@ -2299,9 +2299,9 @@
    {
     "n": 48,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "戲聲縹緲的水塘",
     "en": "Bell (Pond of Fading Song)",
-    "hint": "從 #46–47 的房屋回街道，順著歌聲前進，在衰歌池附近開鈴鐺；【主線 Boss】擊敗骨婉約，取得關鍵物品癡者殘片：執念。",
+    "hint": "從 #46–47 的房屋回街道，順著歌聲前進，在戲聲縹緲的水塘附近開鈴鐺；【主線 Boss】擊敗骨婉約，取得關鍵物品癡者殘片：執念。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2348%20%E2%80%93%20Bell"
    },
    {
@@ -2323,9 +2323,9 @@
    {
     "n": 51,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "三船殉難井底",
     "en": "Bell (Well of Wei Sanchuan)",
-    "hint": "井底沿洞穴繼續走，在樓梯附近啟動魏三川井底鈴鐺。",
+    "hint": "井底沿洞穴繼續走，在樓梯附近啟動三船殉難井底鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2351%20%E2%80%93%20Bell"
    },
    {
@@ -2333,15 +2333,15 @@
     "type": "秘藥",
     "zh": "",
     "en": "Everflow (Medicine)",
-    "hint": "【主線 Boss】擊敗神醫謝秋冬，取得 Everflow 藥品；勝利後續往綠蛇屋。",
+    "hint": "【主線 Boss】擊敗神醫謝秋冬，取得 Everflow 藥品；勝利後續往青蛇屋。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2352%20%E2%80%93%20Everflow"
    },
    {
     "n": 53,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "青蛇屋",
     "en": "Bell (Green Serpent House)",
-    "hint": "從謝秋冬戰場繼續推進，見綠色建築後在門前開綠蛇屋鈴鐺。",
+    "hint": "從謝秋冬戰場繼續推進，見綠色建築後在門前開青蛇屋鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2353%20%E2%80%93%20Bell"
    },
    {
@@ -2349,7 +2349,7 @@
     "type": "秘藥",
     "zh": "",
     "en": "Green Serpent Brew (Medicine)",
-    "hint": "進綠蛇屋找謝回春交談領綠蛇酒藥品；上樓小房間取【綠蛇膽】關鍵道具。",
+    "hint": "進青蛇屋找謝回春交談領綠蛇酒藥品；上樓小房間取【綠蛇膽】關鍵道具。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2354%20%E2%80%93%20Green"
    },
    {
@@ -2357,7 +2357,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "由綠蛇屋樓上取綠蛇膽的小房間跳窗出去，前方有記憶之花。",
+    "hint": "由青蛇屋樓上取綠蛇膽的小房間跳窗出去，前方有記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2355%20%E2%80%93%20Memory"
    },
    {
@@ -2365,7 +2365,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "綠蛇屋鈴鐺轉身往屋頂鉤上去，爬梯後取得另一朵記憶之花。",
+    "hint": "青蛇屋鈴鐺轉身往屋頂鉤上去，爬梯後取得另一朵記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2356%20%E2%80%93%20Memory"
    },
    {
@@ -2397,7 +2397,7 @@
     "type": "飾品",
     "zh": "",
     "en": "Thunderward (Accessory)",
-    "hint": "從綠蛇屋鈴鐺進左側房屋，走到房間盡頭開箱，取得抗雷飾品。",
+    "hint": "從青蛇屋鈴鐺進左側房屋，走到房間盡頭開箱，取得抗雷飾品。",
     "chest": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2360%20%E2%80%93%20Thunderward"
    },
@@ -2437,9 +2437,9 @@
    {
     "n": 65,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "舞獅館大門",
     "en": "Bell (Lion Dance Hall)",
-    "hint": "游龍戰場回走靠近樓梯，改取左側小巷往下，開舞獅堂鈴鐺。",
+    "hint": "游龍戰場回走靠近樓梯，改取左側小巷往下，開舞獅館鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2365%20%E2%80%93%20Bell"
    },
    {
@@ -2447,7 +2447,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "從舞獅堂鈴鐺沿前方小路走，鉤上橋樑後左轉，右側可見記憶之花。",
+    "hint": "從舞獅館鈴鐺沿前方小路走，鉤上橋樑後左轉，右側可見記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2366%20%E2%80%93%20Memory"
    },
    {
@@ -2461,9 +2461,9 @@
    {
     "n": 68,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "祠堂廣場",
     "en": "Bell (Ancestral Shrine Square)",
-    "hint": "接著 #66 沿路前進，在左側開祖祠廣場鈴鐺。",
+    "hint": "接著 #66 沿路前進，在左側開祠堂廣場鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2368%20%E2%80%93%20Bell"
    },
    {
@@ -2490,7 +2490,7 @@
     "type": "黑石碎片",
     "zh": "",
     "en": "Blackstone Fragment",
-    "hint": "回舞獅堂鈴鐺，使用在雷槍長鴻戰場清敵取得的重獅堂大門鑰匙開門，擊敗前方敵人取得黑石碎片。",
+    "hint": "回舞獅館鈴鐺，使用在雷槍長鴻戰場清敵取得的重獅堂大門鑰匙開門，擊敗前方敵人取得黑石碎片。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2371%20%E2%80%93%20Blackstone"
    },
    {
@@ -2521,17 +2521,17 @@
    {
     "n": 75,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "舞獅館深處",
     "en": "Bell (Lion Dance Hall Depths)",
-    "hint": "從 #74 出屋，沿山坡往上開舞獅堂深處鈴鐺；隨後【主線 Boss】擊敗舞獅尊主烈焰（Flame），取得沉睡炎鬃關鍵道具。",
+    "hint": "從 #74 出屋，沿山坡往上開舞獅館深處鈴鐺；隨後【主線 Boss】擊敗舞獅尊主烈焰（Flame），取得沉睡炎鬃關鍵道具。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2375%20%E2%80%93%20Bell"
    },
    {
     "n": 76,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "尊主封印地",
     "en": "Bell (The Sealed Lion)",
-    "hint": "舞獅尊主烈焰戰場正前方開封印獅王鈴鐺。",
+    "hint": "舞獅尊主烈焰戰場正前方開尊主封印地鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2376%20%E2%80%93%20Bell"
    },
    {
@@ -2555,15 +2555,15 @@
     "type": "影之武裝",
     "zh": "",
     "en": "Flaming Mane (Phantom Edge)",
-    "hint": "從景陽殿鈴鐺穿門找雷當，修復沉睡炎鬃並取得 Flaming Mane（炎鬃）影之武裝；此後可燃燒前面擋路樹枝。",
+    "hint": "從景煬軒鈴鐺穿門找雷當，修復沉睡炎鬃並取得 Flaming Mane（炎鬃）影之武裝；此後可燃燒前面擋路樹枝。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2379%20%E2%80%93%20Flaming"
    },
    {
     "n": 80,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "後山涼亭",
     "en": "Bell (Black Hill Pavilion)",
-    "hint": "從衰歌池鈴鐺轉身走右側路，使用炎鬃燒掉枝條，再往前過石橋開黑山亭鈴鐺。",
+    "hint": "從戲聲縹緲的水塘鈴鐺轉身走右側路，使用炎鬃燒掉枝條，再往前過石橋開後山涼亭鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2380%20%E2%80%93%20Bell"
    },
    {
@@ -2571,7 +2571,7 @@
     "type": "飾品",
     "zh": "",
     "en": "Formless Divine Mirror (Accessory)",
-    "hint": "黑山亭鈴鐺附近領取無相神鏡飾品；【順路鑰匙】跨過對面山脊落在下方小木平台，取得後街地窖手柄，踢下梯子開捷徑。",
+    "hint": "後山涼亭鈴鐺附近領取無相神鏡飾品；【順路鑰匙】跨過對面山脊落在下方小木平台，取得後街地窖手柄，踢下梯子開捷徑。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2381%20%E2%80%93%20Formless"
    },
    {
@@ -2593,17 +2593,17 @@
    {
     "n": 84,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "貧民窟",
     "en": "Bell (Pangzhen Slums)",
-    "hint": "#82–83 沿主路前進，開龐鎮貧民區鈴鐺。",
+    "hint": "#82–83 沿主路前進，開貧民窟鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2384%20%E2%80%93%20Bell"
    },
    {
     "n": 85,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "老根頭家",
     "en": "Bell (Old Man Gen’s House)",
-    "hint": "從貧民區鈴鐺右側上梯，沿山坡上去，進左側門開老根頭的家鈴鐺；屋內左門調查屍體取得舊木梳，回陸家村交給老根頭。",
+    "hint": "從貧民區鈴鐺右側上梯，沿山坡上去，進左側門開老根頭家鈴鐺；屋內左門調查屍體取得舊木梳，回陸家村交給老根頭。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2385%20%E2%80%93%20Bell"
    },
    {
@@ -2611,7 +2611,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "老根頭的家鈴鐺回頭，用後街地窖手柄開通道，穿地窖上梯，擊敗頂部敵人取得記憶之花。",
+    "hint": "老根頭家鈴鐺回頭，用後街地窖手柄開通道，穿地窖上梯，擊敗頂部敵人取得記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2386%20%E2%80%93%20Memory"
    },
    {
@@ -2633,17 +2633,17 @@
    {
     "n": 89,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "正道臨時居所",
     "en": "Bell (Mandate Lodgings)",
-    "hint": "從博識閣岔路往上，燒掉左側樹枝，沿路進右側房屋開正道宿舍鈴鐺。",
+    "hint": "從八卦閣前路口往上，燒掉左側樹枝，沿路進右側房屋開正道臨時居所鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2389%20%E2%80%93%20Bell"
    },
    {
     "n": 90,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "碼頭貨棧",
     "en": "Bell (Dockside Warehouse)",
-    "hint": "從正道宿舍鈴鐺走屋頂連接路，到正前方碼頭倉庫開鈴鐺。",
+    "hint": "從正道臨時居所鈴鐺走屋頂連接路，到正前方碼頭倉庫開鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2390%20%E2%80%93%20Bell"
    },
    {
@@ -2658,9 +2658,9 @@
    {
     "n": 92,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "龐鎮船塢",
     "en": "Bell (Pangzhen Docks)",
-    "hint": "從 #91 戰場下樓，右側開龐鎮碼頭鈴鐺。",
+    "hint": "從 #91 戰場下樓，右側開龐鎮船塢鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2392%20%E2%80%93%20Bell"
    },
    {
@@ -2676,15 +2676,15 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "回黃府岔路，順路直走後右側上階梯，在上端以炎鬃燒枝條，沿階梯左側取得記憶之花。",
+    "hint": "回黃家宅邸前路口，順路直走後右側上階梯，在上端以炎鬃燒枝條，沿階梯左側取得記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2394%20%E2%80%93%20Memory"
    },
    {
     "n": 95,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "戲夢山莊正門",
     "en": "Bell (Mirage Estate)",
-    "hint": "#94 階梯正上方開戲夢山莊入口鈴鐺；目前先只開啟，不要越過劇情分界線。",
+    "hint": "#94 階梯正上方開戲夢山莊正門鈴鐺；目前先只開啟，不要越過劇情分界線。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2395%20%E2%80%93%20Bell"
    },
    {
@@ -2692,7 +2692,7 @@
     "type": "黑石碎片",
     "zh": "",
     "en": "Blackstone Fragment",
-    "hint": "從戲夢山莊入口鈴鐺轉身落在屋頂，撿黑石碎片。首次龐鎮可取得項目至此。",
+    "hint": "從戲夢山莊正門鈴鐺轉身落在屋頂，撿黑石碎片。首次龐鎮可取得項目至此。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2396%20%E2%80%93%20Blackstone"
    },
    {
@@ -2700,7 +2700,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "【正道大營七星劍陣後回訪】先在幻鬼酒館找紫衣狼首領取得破碎英雄勇氣，再從龐鎮貧民區鈴鐺下坡，處理會變成敵人的 NPC，拾取記憶之花。",
+    "hint": "【正道大營七星劍陣後回訪】先在幻鬼酒館找紫衣狼首領取得破碎英雄勇氣，再從貧民窟鈴鐺下坡，處理會變成敵人的 NPC，拾取記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2397%20%E2%80%93%20Memory"
    },
    {
@@ -2708,7 +2708,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "【七星劍陣後回訪】從衰歌池鈴鐺轉身沿池塘右側繞，再往左上坡處理變異 NPC，拾取記憶之花；若先前打倒可能在地面。",
+    "hint": "【七星劍陣後回訪】從戲聲縹緲的水塘鈴鐺轉身沿池塘右側繞，再往左上坡處理變異 NPC，拾取記憶之花；若先前打倒可能在地面。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2398%20%E2%80%93%20Memory"
    },
    {
@@ -2716,7 +2716,7 @@
     "type": "殺氣琥珀",
     "zh": "",
     "en": "Sha-Chi Headscarf (Accessory)",
-    "hint": "【支線回訪】集齊崇拜大俠的小雪（Xue）任務三件關鍵物後，回博識閣岔路右側樓內找頂樓智慧之子，領取殺氣頭巾飾品。",
+    "hint": "【支線回訪】集齊崇拜大俠的小雪（Xue）任務三件關鍵物後，回八卦閣前路口右側樓內找頂樓智慧之子，領取殺氣頭巾飾品。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%2399%20%E2%80%93%20Sha-Chi"
    },
    {
@@ -2732,7 +2732,7 @@
     "type": "支線",
     "zh": "",
     "en": "Don’t Forget Me (Tale)",
-    "hint": "【解鎖條件回訪】集市鈴鐺轉身左側樓房解除屏障，登頂樓與臥床少女交談，接《勿相忘》。",
+    "hint": "【解鎖條件回訪】市集鈴鐺轉身左側樓房解除屏障，登頂樓與臥床少女交談，接《勿相忘》。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%23101%20%E2%80%93%20Don%E2%80%99t"
    },
    {
@@ -2749,7 +2749,7 @@
     "type": "飾品",
     "zh": "",
     "en": "Auspicious Lion Fireball (Accessory)",
-    "hint": "從封印獅王鈴鐺往上坡走，解除坡頂屏障再上坡，在大樹旁取得祥獅火球飾品。",
+    "hint": "從尊主封印地鈴鐺往上坡走，解除坡頂屏障再上坡，在大樹旁取得祥獅火球飾品。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%23103%20%E2%80%93%20Auspicious"
    },
    {
@@ -2773,7 +2773,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "【易錯過／枷籠山支線】《贖罪名單》結尾必須選「這無法赦免你的罪」，取得《白雪兒》支線和後街庭院鑰匙。從綠蛇屋鈴鐺轉身過橋、上樓開左門，再走屋頂至臥床人家，使用血染項鍊，取得記憶之花。",
+    "hint": "【易錯過／枷籠山支線】《贖罪名單》結尾必須選「這無法赦免你的罪」，取得《白雪兒》支線和後街庭院鑰匙。從青蛇屋鈴鐺轉身過橋、上樓開左門，再走屋頂至臥床人家，使用血染項鍊，取得記憶之花。",
     "miss": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-pangzhen-collectible-locations/#:~:text=%23106%20%E2%80%93%20Memory"
    },
@@ -2803,7 +2803,7 @@
    {
     "n": 1,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "夕陽小徑",
     "en": "Bell (Sunset Path)",
     "hint": "從陸家村使用龐鎮井底取得的正道大營外門鑰匙開鎖，進區後穿洞穴，出口前方開夕陽小徑鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%231%20%E2%80%93%20Bell"
@@ -2827,9 +2827,9 @@
    {
     "n": 4,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "棧道入口",
     "en": "Bell (Cliffside Walkway Entrance)",
-    "hint": "從石像頭區繼續穿過場景，到腳手架後上梯，在上端開峭壁棧道入口鈴鐺。",
+    "hint": "從石像頭區繼續穿過場景，到腳手架後上梯，在上端開棧道入口鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%234%20%E2%80%93%20Bell"
    },
    {
@@ -2837,15 +2837,15 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "從峭壁棧道入口鈴鐺沿路至大型腳手架，稍微上攀後走右岔路，捷徑梯子旁收記憶之花，記得踢下梯子。",
+    "hint": "從棧道入口鈴鐺沿路至大型腳手架，稍微上攀後走右岔路，捷徑梯子旁收記憶之花，記得踢下梯子。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%235%20%E2%80%93%20Memory"
    },
    {
     "n": 6,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "棧道眺望台",
     "en": "Bell (Cliffside Walkway Overlook)",
-    "hint": "從 #5 繼續過腳手架、搭升降機上去，向右跑牆，到前方開峭壁棧道眺望鈴鐺。",
+    "hint": "從 #5 繼續過腳手架、搭升降機上去，向右跑牆，到前方開棧道眺望台鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%236%20%E2%80%93%20Bell"
    },
    {
@@ -2867,7 +2867,7 @@
    {
     "n": 9,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "亂葬崗",
     "en": "Bell (Mass Grave)",
     "hint": "用剛取得的大營山谷門鑰匙開旁邊門，進去後正前方開亂葬崗鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%239%20%E2%80%93%20Bell"
@@ -2915,7 +2915,7 @@
    {
     "n": 15,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "墨璣子衣冠塚",
     "en": "Bell (Moji’s Cenotaph)",
     "hint": "從小雪洞穴離開，跳到另一側斷橋，沿路前進開墨璣子衣冠塚鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%2315%20%E2%80%93%20Bell"
@@ -2931,9 +2931,9 @@
    {
     "n": 17,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "箭塔之下",
     "en": "Bell (Beneath the Watchtower)",
-    "hint": "從 #16 往柵欄前進，柵欄右側開瞭望塔下鈴鐺。",
+    "hint": "從 #16 往柵欄前進，柵欄右側開箭塔之下鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%2317%20%E2%80%93%20Bell"
    },
    {
@@ -2941,13 +2941,13 @@
     "type": "黑石碎片",
     "zh": "",
     "en": "Blackstone Fragment",
-    "hint": "從瞭望塔下鈴鐺前往第二座瞭望塔，清敵後獲得黑石碎片。",
+    "hint": "從箭塔之下鈴鐺前往第二座瞭望塔，清敵後獲得黑石碎片。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%2318%20%E2%80%93%20Blackstone"
    },
    {
     "n": 19,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "戰場遺跡",
     "en": "Bell (Battlefield Ruins)",
     "hint": "#18 左側往下跳，貼牆沿路走，開戰場遺跡鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%2319%20%E2%80%93%20Bell"
@@ -2972,7 +2972,7 @@
    {
     "n": 22,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "大營正門",
     "en": "Bell (Main Encampment Gate)",
     "hint": "萬鈞戰場開大營正門鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%2322%20%E2%80%93%20Bell"
@@ -2996,7 +2996,7 @@
    {
     "n": 25,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "鴿舍",
     "en": "Bell (Dovecote)",
     "hint": "由大營正門鈴鐺敲碎地板進營地，翻牆後走左邊山坡，在建築右側開鴿舍鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%2325%20%E2%80%93%20Bell"
@@ -3037,7 +3037,7 @@
    {
     "n": 30,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "三高塔",
     "en": "Bell (Three Towers)",
     "hint": "由 #29 返回腳手架頂端，沿路走到塔邊落下，正前方開三高塔鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%2330%20%E2%80%93%20Bell"
@@ -3081,9 +3081,9 @@
    {
     "n": 35,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "高塔後方出口",
     "en": "Bell (Tower Rear Exit)",
-    "hint": "#31 Boss 場地旁開高塔後出口鈴鐺；沿河走到盡頭可取得墨璣子宅鑰匙及小雪任務物件，先別繼續推新區。",
+    "hint": "#31 Boss 場地旁開高塔後方出口鈴鐺；沿河走到盡頭可取得墨璣子宅鑰匙及小雪任務物件，先別繼續推新區。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%2335%20%E2%80%93%20Bell"
    },
    {
@@ -3105,9 +3105,9 @@
    {
     "n": 38,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "通往校場的路",
     "en": "Bell (Road to the Training Grounds) / Xue Objective 3",
-    "hint": "#37 往左走鉤上懸崖，再爬梯沿路，開通往校場鈴鐺，旁有小雪第三任務物件。【重大警告】先不要殺校場 Boss，會導致白山秘聞失敗。",
+    "hint": "#37 往左走鉤上懸崖，再爬梯沿路，開通往校場的路鈴鐺，旁有小雪第三任務物件。【重大警告】先不要殺校場 Boss，會導致白山秘聞失敗。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%2338%20%E2%80%93%20Bell"
    },
    {
@@ -3115,7 +3115,7 @@
     "type": "飾品",
     "zh": "",
     "en": "Nameless Thumb Ring (Accessory)",
-    "hint": "從通往校場鈴鐺往下，沿右路進左側建築，先拿神像軀幹碎片；上樓寶箱取得無名拇指環。",
+    "hint": "從通往校場的路鈴鐺往下，沿右路進左側建築，先拿神像軀幹碎片；上樓寶箱取得無名拇指環。",
     "chest": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%2339%20%E2%80%93%20Nameless"
    },
@@ -3130,9 +3130,9 @@
    {
     "n": 41,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "白山派的覆滅之路",
     "en": "Bell (Path of the Baishan’s Fall)",
-    "hint": "回 #40 山坡走階梯過門，沿主路開白山隕落之路鈴鐺。",
+    "hint": "回 #40 山坡走階梯過門，沿主路開白山派的覆滅之路鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%2341%20%E2%80%93%20Bell"
    },
    {
@@ -3140,7 +3140,7 @@
     "type": "殺氣琥珀",
     "zh": "",
     "en": "Sha-Chi Fragment",
-    "hint": "白山隕落之路鈴鐺正前方清掉從樹裡冒出的敵人，取得殺氣碎片。",
+    "hint": "白山派的覆滅之路鈴鐺正前方清掉從樹裡冒出的敵人，取得殺氣碎片。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%2342%20%E2%80%93%20Sha-Chi"
    },
    {
@@ -3154,7 +3154,7 @@
    {
     "n": 44,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "幽禁之地",
     "en": "Bell (The Confinement)",
     "hint": "沿 #43 懸崖山脊一路往前，到平台盡頭開幽禁之地鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%2344%20%E2%80%93%20Bell"
@@ -3188,7 +3188,7 @@
    {
     "n": 48,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "大營瀑布後方",
     "en": "Bell (Behind the Encampment Waterfall)",
     "hint": "從白山秘聞屍體往前走，到懸崖下方鈴鐺，開大營瀑布後方鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%2348%20%E2%80%93%20Bell"
@@ -3222,9 +3222,9 @@
    {
     "n": 52,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "校場",
     "en": "Bell (Training Grounds)",
-    "hint": "【白山任務完成後】回通往校場鈴鐺，下落並打開左側門，正前方開校場鈴鐺。打 Boss 前務必確認 #47 花田屍體已調查。",
+    "hint": "【白山任務完成後】回通往校場的路鈴鐺，下落並打開左側門，正前方開校場鈴鐺。打 Boss 前務必確認 #47 花田屍體已調查。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%2352%20%E2%80%93%20Bell"
    },
    {
@@ -3279,7 +3279,7 @@
    {
     "n": 59,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "校場深處",
     "en": "Bell (Training Grounds Depths)",
     "hint": "下樓沿長廊走到盡頭，開校場深處鈴鐺；旁邊幻境傳送門先進入一次觸發《夢差幻境》，目前尚不能完成，之後回訪。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mandate-encampment-collectible-locations/#:~:text=%2359%20%E2%80%93%20Bell"
@@ -3302,16 +3302,16 @@
     "type": "飾品",
     "zh": "",
     "en": "Battleforged (Accessory)",
-    "hint": "從龐鎮碼頭鈴鐺沿左側棧橋進入湖區；左側屋內攀梯，上去後再次左轉，開寶箱拿戰鑄飾品。",
+    "hint": "從龐鎮船塢鈴鐺沿左側棧橋進入湖區；左側屋內攀梯，上去後再次左轉，開寶箱拿戰鑄飾品。",
     "chest": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%231%20%E2%80%93%20Battleforged"
    },
    {
     "n": 2,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "龐鎮殺氣塔上部一層",
     "en": "Bell (Pangzhen Sha-Chi Tower Upper Level 1)",
-    "hint": "續沿山崖上坡，木橋旁啟動龐鎮殺氣塔上層鈴鐺。",
+    "hint": "續沿山崖上坡，木橋旁啟動龐鎮殺氣塔上部一層鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%232%20%E2%80%93%20Bell"
    },
    {
@@ -3325,15 +3325,15 @@
    {
     "n": 4,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "龐鎮殺氣塔頂",
     "en": "Bell (Pangzhen Sha-Chi Tower Summit)",
-    "hint": "沿殺氣塔向上爬到頂樓屋頂，啟動塔頂鈴鐺；與旁邊友善影衛對話推進隔絕楔子。稍後記得回塔頂交原初石。",
+    "hint": "沿殺氣塔向上爬到頂樓屋頂，啟動龐鎮殺氣塔頂鈴鐺；與旁邊友善影衛對話推進隔絕楔子。稍後記得回塔頂交原初石。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%234%20%E2%80%93%20Bell"
    },
    {
     "n": 5,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "龐鎮殺氣塔爐內",
     "en": "Bell (Pangzhen Sha-Chi Tower Furnace)",
     "hint": "自塔頂回一樓，引導背炸藥敵人炸開中央籠柵；搭升降梯下去擊敗火刀祝原，戰場啟動熔爐鈴鐺，取得烈焰線索。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%235%20%E2%80%93%20Bell"
@@ -3343,13 +3343,13 @@
     "type": "鑄魂材料",
     "zh": "",
     "en": "Everlasting Flame (Tempering Material)",
-    "hint": "回龐鎮碼頭開船沿湖左岸找山壁狹縫，駛至盡頭上岸，從祭壇取永恆火焰鑄魂材料。",
+    "hint": "回龐鎮船塢開船沿湖左岸找山壁狹縫，駛至盡頭上岸，從祭壇取永恆火焰鑄魂材料。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%236%20%E2%80%93%20Everlasting"
    },
    {
     "n": 7,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "龐鎮殺氣塔底部船塢",
     "en": "Bell (Pangzhen Sha-Chi Tower Dock)",
     "hint": "返航出峽縫後往右側找紅燈籠，沿燈籠航道到殺氣塔下方碼頭，靠岸啟動鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%237%20%E2%80%93%20Bell"
@@ -3357,9 +3357,9 @@
    {
     "n": 8,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "龐鎮殺氣塔下部通道",
     "en": "Bell (Pangzhen Sha-Chi Tower Lower Passage)",
-    "hint": "由殺氣塔碼頭往塔內上行；先不走室外岔路，越過敵群啟動下層通道鈴鐺。",
+    "hint": "由殺氣塔碼頭往塔內上行；先不走室外岔路，越過敵群啟動龐鎮殺氣塔下部通道鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%238%20%E2%80%93%20Bell"
    },
    {
@@ -3367,15 +3367,15 @@
     "type": "黑石碎片",
     "zh": "",
     "en": "Blackstone Fragment",
-    "hint": "從下層通道鈴鐺進前方房間，擊敗敵群取得黑石碎片。",
+    "hint": "從龐鎮殺氣塔下部通道鈴鐺進前方房間，擊敗敵群取得黑石碎片。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%239%20%E2%80%93%20Blackstone"
    },
    {
     "n": 10,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "龐鎮殺氣塔下部外側",
     "en": "Bell (Pangzhen Sha-Chi Tower Lower Exterior)",
-    "hint": "繼續上行啟動下層外側鈴鐺。越過大型木橋與斷橋，爬梯後操作熔爐手柄拿原初石；回 #4 影衛處交付。",
+    "hint": "繼續上行啟動龐鎮殺氣塔下部外側鈴鐺。越過大型木橋與斷橋，爬梯後操作熔爐手柄拿原初石；回 #4 影衛處交付。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2310%20%E2%80%93%20Bell"
    },
    {
@@ -3383,7 +3383,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "從龐鎮碼頭上船，筆直前進，水面上取得第一朵記憶之花。",
+    "hint": "從龐鎮船塢上船，筆直前進，水面上取得第一朵記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2311%20%E2%80%93%20Memory"
    },
    {
@@ -3429,9 +3429,9 @@
    {
     "n": 17,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "梅谷樂坊船塢",
     "en": "Bell (Meigu Songhouse Dock)",
-    "hint": "由 #16 左側小島上岸，啟動梅谷歌坊碼頭鈴鐺。",
+    "hint": "由 #16 左側小島上岸，啟動梅谷樂坊船塢鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2317%20%E2%80%93%20Bell"
    },
    {
@@ -3490,17 +3490,17 @@
    {
     "n": 24,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "陸家村淺灘船塢",
     "en": "Bell (Village of Lyu Shallows Dock)",
-    "hint": "金姓敵人的碼頭左側樹旁，啟動呂村淺灘碼頭鈴鐺。",
+    "hint": "金姓敵人的碼頭左側樹旁，啟動陸家村淺灘船塢鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2324%20%E2%80%93%20Bell"
    },
    {
     "n": 25,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "梅谷村西島船塢",
     "en": "Bell (Meigu Village West Dock)",
-    "hint": "自歌坊碼頭向北駕船至小島，登岸啟動梅谷村西碼頭鈴鐺。",
+    "hint": "自歌坊碼頭向北駕船至小島，登岸啟動梅谷村西島船塢鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2325%20%E2%80%93%20Bell"
    },
    {
@@ -3514,7 +3514,7 @@
    {
     "n": 27,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "梅谷村小張藏身處",
     "en": "Bell (Zhang’s Hideout, Meigu Lake)",
     "hint": "穿越小島，跳過木樑到妙手小張藏身處，啟動鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2327%20%E2%80%93%20Bell"
@@ -3531,9 +3531,9 @@
    {
     "n": 29,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "梅谷村東島船塢",
     "en": "Bell (Meigu Village East Dock)",
-    "hint": "從藏身處右側碼頭乘船往東北近島，靠岸後正前方開啟梅谷村東碼頭鈴鐺；先上左側階梯、攀梯入屋拿方塊榫接片。",
+    "hint": "從藏身處右側碼頭乘船往東北近島，靠岸後正前方開啟梅谷村東島船塢鈴鐺；先上左側階梯、攀梯入屋拿方塊榫接片。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2329%20%E2%80%93%20Bell"
    },
    {
@@ -3604,9 +3604,9 @@
    {
     "n": 38,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "水行幫船塢",
     "en": "Bell (Blackwater Crew Dock)",
-    "hint": "由村東碼頭往北乘船，於下一座小島靠岸，往左前方啟動黑水幫碼頭鈴鐺。",
+    "hint": "由村東碼頭往北乘船，於下一座小島靠岸，往左前方啟動水行幫船塢鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2338%20%E2%80%93%20Bell"
    },
    {
@@ -3614,7 +3614,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "從黑水幫碼頭鈴鐺爬左側高處，進屋取得記憶之花。",
+    "hint": "從水行幫船塢鈴鐺爬左側高處，進屋取得記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2339%20%E2%80%93%20Memory"
    },
    {
@@ -3662,9 +3662,9 @@
    {
     "n": 45,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "湖中榕樹船塢",
     "en": "Bell (Lake Banyan Dock)",
-    "hint": "由呂村淺灘碼頭乘船向東，到湖榕小島靠岸，正前方啟動湖榕碼頭鈴鐺。",
+    "hint": "由陸家村淺灘碼頭乘船向東，到湖榕小島靠岸，正前方啟動湖中榕樹船塢鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2345%20%E2%80%93%20Bell"
    },
    {
@@ -3686,9 +3686,9 @@
    {
     "n": 48,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "湖中龍柱船塢",
     "en": "Bell (Midlake Long Pillar)",
-    "hint": "湖榕碼頭乘船沿東側崖壁航行，跟隨橘色燈籠進洞穴並靠岸，過敵群後開湖中龍柱鈴鐺。",
+    "hint": "湖榕碼頭乘船沿東側崖壁航行，跟隨橘色燈籠進洞穴並靠岸，過敵群後開湖中龍柱船塢鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2348%20%E2%80%93%20Bell"
    },
    {
@@ -3710,9 +3710,9 @@
    {
     "n": 51,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "白蛇屋船塢",
     "en": "Bell (White Serpent House Dock)",
-    "hint": "從湖中龍柱再乘船往西北近島上岸，啟動白蛇屋碼頭鈴鐺。",
+    "hint": "從湖中龍柱再乘船往西北近島上岸，啟動白蛇屋船塢鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2351%20%E2%80%93%20Bell"
    },
    {
@@ -3720,7 +3720,7 @@
     "type": "飾品",
     "zh": "",
     "en": "Treasure Basin (Accessory)",
-    "hint": "白蛇屋碼頭直走，右側建築內開寶箱取聚寶盆；預購已持有者可能改給粉塵。",
+    "hint": "白蛇屋船塢直走，右側建築內開寶箱取聚寶盆；預購已持有者可能改給粉塵。",
     "chest": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2352%20%E2%80%93%20Treasure"
    },
@@ -3751,7 +3751,7 @@
    {
     "n": 56,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "白蛇屋",
     "en": "Bell (White Serpent House)",
     "hint": "在 #55 同一房間啟動白蛇屋鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2356%20%E2%80%93%20Bell"
@@ -3784,9 +3784,9 @@
    {
     "n": 60,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "獨眼之島船塢",
     "en": "Bell (One-Eyed Isle Dock)",
-    "hint": "由白蛇屋碼頭乘船向東北的獨眼島，靠岸啟動鈴鐺。",
+    "hint": "由白蛇屋船塢乘船向東北的獨眼島，靠岸啟動鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2360%20%E2%80%93%20Bell"
    },
    {
@@ -3811,16 +3811,16 @@
     "type": "影之武裝",
     "zh": "",
     "en": "War Wagon (Phantom Edge)",
-    "hint": "【限時】由黑水幫碼頭乘船往西，找冰湖底部狹窄裂口駛入；登岸往前觸發老根頭過場，取得戰車影之武裝。務必先完成「歸途」。",
+    "hint": "【限時】由水行幫船塢乘船往西，找冰湖底部狹窄裂口駛入；登岸往前觸發老根頭過場，取得戰車影之武裝。務必先完成「歸途」。",
     "miss": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2363%20%E2%80%93%20War"
    },
    {
     "n": 64,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "冰湖船塢",
     "en": "Bell (Frozen Lake Dock)",
-    "hint": "老根頭所在冰湖登岸點旁，開啟冰湖碼頭鈴鐺。",
+    "hint": "老根頭所在冰湖登岸點旁，開啟冰湖船塢鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2364%20%E2%80%93%20Bell"
    },
    {
@@ -3828,7 +3828,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "啟動冰湖碼頭後，老根頭腳邊拾取記憶之花；與 #66 同點。",
+    "hint": "啟動冰湖船塢後，老根頭腳邊拾取記憶之花；與 #66 同點。",
     "miss": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2365%20%E2%80%93%20Memory"
    },
@@ -3846,7 +3846,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "從冰湖碼頭左側沿路走，樹旁取得記憶之花。",
+    "hint": "從冰湖船塢左側沿路走，樹旁取得記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2367%20%E2%80%93%20Memory"
    },
    {
@@ -3860,17 +3860,17 @@
    {
     "n": 69,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "護法四像鏡",
     "en": "Bell (Four Guardians’ Mirror)",
-    "hint": "從 #68 沿山溝上行，到四守鏡前啟動鈴鐺。",
+    "hint": "從 #68 沿山溝上行，到護法四像鏡前啟動鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2369%20%E2%80%93%20Bell"
    },
    {
     "n": 70,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "泣聲傳來的霧門",
     "en": "Bell (Weeping Mistgate)",
-    "hint": "從獨眼島碼頭返回船上，依指引抵達哭泣霧門，開鈴鐺；檢查已修復幻術琵琶後觸碰霧牆，進入枷籠山。",
+    "hint": "從獨眼島碼頭返回船上，依指引抵達泣聲傳來的霧門，開鈴鐺；檢查已修復幻術琵琶後觸碰霧牆，進入枷籠山。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2370%20%E2%80%93%20Bell"
    },
    {
@@ -3878,7 +3878,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "【二訪／幻境】從四守鏡鈴鐺穿過鏡面，抵第一處幻術師遺址，旁邊取得記憶之花。",
+    "hint": "【二訪／幻境】從護法四像鏡鈴鐺穿過鏡面，抵第一處幻術師遺址，旁邊取得記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2371%20%E2%80%93%20Memory"
    },
    {
@@ -4052,9 +4052,9 @@
    {
     "n": 93,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "禁忌之徑",
     "en": "Bell (Forbidden Path)",
-    "hint": "沿 #92 階梯向上靠近紅光，被帶離幻術師遺址後啟動禁行之路鈴鐺。",
+    "hint": "沿 #92 階梯向上靠近紅光，被帶離幻術師遺址後啟動禁忌之徑鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2393%20%E2%80%93%20Bell"
    },
    {
@@ -4062,15 +4062,15 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "從禁行之路鈴鐺直行，靠近洞口出口取得記憶之花。",
+    "hint": "從禁忌之徑鈴鐺直行，靠近洞口出口取得記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2394%20%E2%80%93%20Memory"
    },
    {
     "n": 95,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "白影的墜落",
     "en": "Bell (Whiteshadow’s Fall)",
-    "hint": "從 #94 走出洞穴，正前方開白影殞落鈴鐺。",
+    "hint": "從 #94 走出洞穴，正前方開白影的墜落鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2395%20%E2%80%93%20Bell"
    },
    {
@@ -4096,7 +4096,7 @@
     "type": "殺氣琥珀",
     "zh": "",
     "en": "Sha-Chi Blood Catalyst (Medicine)",
-    "hint": "回梅谷湖妙手小張藏身處鈴鐺交付本區寶藏，領取殺氣血觸媒藥品。",
+    "hint": "回梅谷湖戲夢山莊小張藏身處鈴鐺交付本區寶藏，領取殺氣血觸媒藥品。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2398%20%E2%80%93%20Sha-Chi"
    },
    {
@@ -4104,7 +4104,7 @@
     "type": "鑄魂材料",
     "zh": "",
     "en": "Golden Ammunition (Tempering Material)",
-    "hint": "【虎炮回訪】從呂村淺灘鈴鐺出發，用虎炮打破右側牆，取得黃金彈藥鑄魂材料。",
+    "hint": "【虎炮回訪】從陸家村淺灘鈴鐺出發，用虎炮打破右側牆，取得黃金彈藥鑄魂材料。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-meigu-lake-collectible-locations/#:~:text=%2399%20%E2%80%93%20Golden"
    }
   ]
@@ -4115,9 +4115,9 @@
    {
     "n": 1,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "祭拜聖母之路",
     "en": "Bell (The Lady’s Path)",
-    "hint": "由梅谷湖哭泣霧門進入枷籠山；甦醒後沿左側上坡，開啟夫人之路鈴鐺。",
+    "hint": "由梅谷湖泣聲傳來的霧門進入枷籠山；甦醒後沿左側上坡，開啟祭拜聖母之路鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mountain-of-imprisonment-collectible-locations/#:~:text=%231%20%E2%80%93%20Bell"
    },
    {
@@ -4125,7 +4125,7 @@
     "type": "飾品",
     "zh": "",
     "en": "Baishan Writ (Accessory)",
-    "hint": "自夫人之路鈴鐺沿路走過受傷 NPC，聽到她呼喊後回頭，於屍體拾取白山令飾品。",
+    "hint": "自祭拜聖母之路鈴鐺沿路走過受傷 NPC，聽到她呼喊後回頭，於屍體拾取白山令飾品。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mountain-of-imprisonment-collectible-locations/#:~:text=%232%20%E2%80%93%20Baishan"
    },
    {
@@ -4140,9 +4140,9 @@
    {
     "n": 4,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "鐵殺營地",
     "en": "Bell (Iron Butcher’s Camp)",
-    "hint": "鐵殺戰鬥場地內開啟營地鈴鐺。",
+    "hint": "鐵殺戰鬥場地內開啟鐵殺營地鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mountain-of-imprisonment-collectible-locations/#:~:text=%234%20%E2%80%93%20Bell"
    },
    {
@@ -4158,7 +4158,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "從營地鈴鐺回頭攀崖，沿牆滑入建築中層，取得記憶之花。",
+    "hint": "從鐵殺營地鈴鐺回頭攀崖，沿牆滑入建築中層，取得記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mountain-of-imprisonment-collectible-locations/#:~:text=%236%20%E2%80%93%20Memory"
    },
    {
@@ -4166,7 +4166,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "營地鈴鐺左側上梯子後跑牆，取得記憶之花；繼續上階梯，記得救出腳手架吊籠中的男子，推進崔的支線。",
+    "hint": "鐵殺營地鈴鐺左側上梯子後跑牆，取得記憶之花；繼續上階梯，記得救出腳手架吊籠中的男子，推進崔的支線。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mountain-of-imprisonment-collectible-locations/#:~:text=%237%20%E2%80%93%20Memory"
    },
    {
@@ -4180,9 +4180,9 @@
    {
     "n": 9,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "囚籠洞口",
     "en": "Bell (Hanging Cage Cavern)",
-    "hint": "沿 #8 後方山崖路繼續走，洞穴入口開吊籠洞窟鈴鐺。",
+    "hint": "沿 #8 後方山崖路繼續走，洞穴入口開囚籠洞口鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mountain-of-imprisonment-collectible-locations/#:~:text=%239%20%E2%80%93%20Bell"
    },
    {
@@ -4190,7 +4190,7 @@
     "type": "黑石碎片",
     "zh": "",
     "en": "Blackstone Fragment",
-    "hint": "進吊籠洞窟大型空地，清掉所有敵人取得黑石。",
+    "hint": "進囚籠洞口大型空地，清掉所有敵人取得黑石。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mountain-of-imprisonment-collectible-locations/#:~:text=%2310%20%E2%80%93%20Blackstone"
    },
    {
@@ -4212,7 +4212,7 @@
    {
     "n": 13,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "囚籠道",
     "en": "Bell (Cavern Passage)",
     "hint": "劉義吊籠後方即洞窟通道鈴鐺，開啟後可做支線回報。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mountain-of-imprisonment-collectible-locations/#:~:text=%2313%20%E2%80%93%20Bell"
@@ -4229,9 +4229,9 @@
    {
     "n": 15,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "指揮官平台",
     "en": "Bell (Commander’s Platform)",
-    "hint": "畢峰戰場啟動統領平台鈴鐺。",
+    "hint": "畢峰戰場啟動指揮官平台鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mountain-of-imprisonment-collectible-locations/#:~:text=%2315%20%E2%80%93%20Bell"
    },
    {
@@ -4269,9 +4269,9 @@
    {
     "n": 20,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "宗祠外山門",
     "en": "Bell (Shrine Outer Gate)",
-    "hint": "記憶之花旁開神社外門鈴鐺。",
+    "hint": "記憶之花旁開宗祠外山門鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mountain-of-imprisonment-collectible-locations/#:~:text=%2320%20%E2%80%93%20Bell"
    },
    {
@@ -4312,7 +4312,7 @@
     "type": "殺氣琥珀",
     "zh": "",
     "en": "Sha-Chi Amber Fragment / Bloodstained Necklace / Backstreet Courtyard Key",
-    "hint": "【關鍵分歧】從統領平台沿路返回找鐵面人；選「這不能洗清你的罪孽」（This won’t absolve you of your sins）觸發戰鬥，擊敗後獲殺氣琥珀、染血項鍊及後巷庭院鑰匙。不要選放過他。",
+    "hint": "【關鍵分歧】從指揮官平台沿路返回找鐵面人；選「這不能洗清你的罪孽」（This won’t absolve you of your sins）觸發戰鬥，擊敗後獲殺氣琥珀、染血項鍊及後巷庭院鑰匙。不要選放過他。",
     "miss": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-mountain-of-imprisonment-collectible-locations/#:~:text=%2325%20%E2%80%93%20Sha-Chi"
    },
@@ -4338,7 +4338,7 @@
     "type": "挑戰",
     "zh": "",
     "en": "Banyan Tree (Challenge Location)",
-    "hint": "從神社外門鈴鐺開門、過木橋，觸摸榕樹進入多波挑戰；最後重戰鐵殺與狂暴巨漢。",
+    "hint": "從宗祠外山門鈴鐺開門、過木橋，觸摸榕樹進入多波挑戰；最後重戰鐵殺與狂暴巨漢。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mountain-of-imprisonment-collectible-locations/#:~:text=%2328%20%E2%80%93%20Banyan"
    },
    {
@@ -4361,9 +4361,9 @@
    {
     "n": 31,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "仕女祠",
     "en": "Bell (The Lady’s Shrine)",
-    "hint": "在 #30 附近開啟夫人祠鈴鐺。",
+    "hint": "在 #30 附近開啟仕女祠鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mountain-of-imprisonment-collectible-locations/#:~:text=%2331%20%E2%80%93%20Bell"
    },
    {
@@ -4411,9 +4411,9 @@
    {
     "n": 37,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "人偶囚室",
     "en": "Bell (Puppet Cell)",
-    "hint": "穿過傳送門，正前方開傀儡牢籠鈴鐺；再進橘色傳送門（此前另外兩處門也需探索）與中央傀儡互動，取得傀儡之舌及陰眼。",
+    "hint": "穿過傳送門，正前方開人偶囚室鈴鐺；再進橘色傳送門（此前另外兩處門也需探索）與中央傀儡互動，取得傀儡之舌及陰眼。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mountain-of-imprisonment-collectible-locations/#:~:text=%2337%20%E2%80%93%20Bell"
    },
    {
@@ -4421,7 +4421,7 @@
     "type": "鑄魂材料",
     "zh": "",
     "en": "Restored Ritual Cauldron (Tempering Material)",
-    "hint": "【新武裝回訪】由洞窟通道鈴鐺往後下井，用飛天血滴子開隱藏道路，拿儀式鼎碎片 II；再從夫人之路鈴鐺往前選左側下坡，開另一隱藏通道，湊齊碎片取得復原儀式鼎鑄魂材料。",
+    "hint": "【新武裝回訪】由洞窟通道鈴鐺往後下井，用飛天血滴子開隱藏道路，拿儀式鼎碎片 II；再從祭拜聖母之路鈴鐺往前選左側下坡，開另一隱藏通道，湊齊碎片取得復原儀式鼎鑄魂材料。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mountain-of-imprisonment-collectible-locations/#:~:text=%2338%20%E2%80%93%20Restored"
    }
   ]
@@ -4432,7 +4432,7 @@
    {
     "n": 1,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "山莊後門",
     "en": "Bell (Estate Rear Gate)",
     "hint": "由戲夢山莊入口上階梯，右側啟動「山莊後門」鈴鐺。【回訪】進入山莊後血色森林冰雪區已解鎖，建議先去收集並重開四座鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%231%20%E2%80%93%20Bell"
@@ -4464,9 +4464,9 @@
    {
     "n": 5,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "儺面祭台",
     "en": "Bell (Nuo Mask Altar)",
-    "hint": "由 #4 再上右側階梯，啟動「儺面祭壇」鈴鐺。",
+    "hint": "由 #4 再上右側階梯，啟動「儺面祭台」鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%235%20%E2%80%93%20Bell"
    },
    {
@@ -4474,7 +4474,7 @@
     "type": "黑石碎片",
     "zh": "",
     "en": "Blackstone Fragment",
-    "hint": "從儺面祭壇鈴鐺往回下階梯，經右側道路到塔樓，踩岩石攀上塔頂取得黑石碎片。",
+    "hint": "從儺面祭台鈴鐺往回下階梯，經右側道路到塔樓，踩岩石攀上塔頂取得黑石碎片。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%236%20%E2%80%93%20Blackstone"
    },
    {
@@ -4496,7 +4496,7 @@
    {
     "n": 9,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "後山",
     "en": "Bell (Back Hill)",
     "hint": "由火塔下方鈴鐺越過鎖鏈擺盪點，穿過前方門，啟動「後山」鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%239%20%E2%80%93%20Bell"
@@ -4512,9 +4512,9 @@
    {
     "n": 11,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "竹影道",
     "en": "Bell (Shaded Bamboo Path)",
-    "hint": "回到 #10 的屋舍，從左側下階梯，底下左手邊啟動「竹蔭小徑」鈴鐺。",
+    "hint": "回到 #10 的屋舍，從左側下階梯，底下左手邊啟動「竹影道」鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2311%20%E2%80%93%20Bell"
    },
    {
@@ -4522,15 +4522,15 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "由竹蔭小徑鈴鐺跳下，下方左側階梯上取得記憶之花。",
+    "hint": "由竹影道鈴鐺跳下，下方左側階梯上取得記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2312%20%E2%80%93%20Memory"
    },
    {
     "n": 13,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "戲夢山莊小張藏身處",
     "en": "Bell (Zhang’s Hideout Mirage Estate)",
-    "hint": "由 #12 入屋穿行到庭院，上左側樓梯，啟動「妙手小張藏身處」鈴鐺。",
+    "hint": "由 #12 入屋穿行到庭院，上左側樓梯，啟動「戲夢山莊小張藏身處」鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2313%20%E2%80%93%20Bell"
    },
    {
@@ -4544,9 +4544,9 @@
    {
     "n": 15,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "戲園",
     "en": "Bell (Opera House)",
-    "hint": "由 #14 出洞回到水邊，右側啟動「戲院」鈴鐺。",
+    "hint": "由 #14 出洞回到水邊，右側啟動「戲園」鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2315%20%E2%80%93%20Bell"
    },
    {
@@ -4554,7 +4554,7 @@
     "type": "殺氣琥珀",
     "zh": "",
     "en": "Sha-Chi Amber Fragment",
-    "hint": "從戲院鈴鐺往前穿越戲院進入下一區，沿階梯上到開闊區，再上正前方階梯，屋內取得殺氣琥珀。",
+    "hint": "從戲園鈴鐺往前穿越戲園進入下一區，沿階梯上到開闊區，再上正前方階梯，屋內取得殺氣琥珀。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2316%20%E2%80%93%20Sha-Chi"
    },
    {
@@ -4585,7 +4585,7 @@
    {
     "n": 20,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "校場",
     "en": "Bell (Training Grounds)",
     "hint": "從 #19 回到橫木與水池區，沿道路前進並垂降繩索，下階梯啟動「校場」鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2320%20%E2%80%93%20Bell"
@@ -4604,7 +4604,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "玉鼎戰鬥場地右側上階梯，在頂部拾記憶之花；戰場正前方記得另取【戲院門票】。",
+    "hint": "玉鼎戰鬥場地右側上階梯，在頂部拾記憶之花；戰場正前方記得另取【戲園門票】。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2322%20%E2%80%93%20Memory"
    },
    {
@@ -4645,7 +4645,7 @@
     "type": "寶藏",
     "zh": "",
     "en": "Gold-and-Silver Sachet (Treasure)",
-    "hint": "返回戲院鈴鐺，入戲院入口後立刻在左側取得金銀香囊寶藏。",
+    "hint": "返回戲園鈴鐺，入戲園入口後立刻在左側取得金銀香囊寶藏。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2327%20%E2%80%93%20Gold-and-Silver"
    },
    {
@@ -4653,15 +4653,15 @@
     "type": "鑄魂材料",
     "zh": "",
     "en": "Jade Mask (Tempering Material)",
-    "hint": "推進戲院事件；船靠岸後，地面拾取玉面具鑄魂材料。【提醒】劇情移動前先看附近地面。",
+    "hint": "推進戲園事件；船靠岸後，地面拾取玉面具鑄魂材料。【提醒】劇情移動前先看附近地面。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2328%20%E2%80%93%20Jade"
    },
    {
     "n": 29,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "靈堂",
     "en": "Bell (Mourning Hall)",
-    "hint": "完成戲院事件上階梯，左側啟動「靈堂」鈴鐺。",
+    "hint": "完成戲園事件上階梯，左側啟動「靈堂」鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2329%20%E2%80%93%20Bell"
    },
    {
@@ -4692,9 +4692,9 @@
    {
     "n": 33,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "連廊",
     "en": "Bell (Covered Corridor)",
-    "hint": "從 #32 轉身往前穿過連通道路，階梯旁啟動「有頂走廊」鈴鐺。",
+    "hint": "從 #32 轉身往前穿過連通道路，階梯旁啟動「連廊」鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2333%20%E2%80%93%20Bell"
    },
    {
@@ -4702,13 +4702,13 @@
     "type": "黑石碎片",
     "zh": "",
     "en": "Blackstone Fragment",
-    "hint": "由有頂走廊鈴鐺進正前方區域，下左側階梯，過右側橋樑取得黑石碎片。",
+    "hint": "由連廊鈴鐺進正前方區域，下左側階梯，過右側橋樑取得黑石碎片。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2334%20%E2%80%93%20Blackstone"
    },
    {
     "n": 35,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "戲夢山莊龍柱",
     "en": "Bell (Mirage Estate Long Pillar)",
     "hint": "自 #34 往前上小階梯右轉，續行再左轉到盡頭；站上岩石，用鎖鐮鉤到下方木平台並連續擺盪，終點右側啟動「戲夢山莊龍柱」鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2335%20%E2%80%93%20Bell"
@@ -4776,7 +4776,7 @@
    {
     "n": 43,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "冷荼書房",
     "en": "Bell (Leng Tu’s Study)",
     "hint": "從 #42 穿過門，前方啟動「冷荼書房」鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2343%20%E2%80%93%20Bell"
@@ -4786,7 +4786,7 @@
     "type": "飾品",
     "zh": "",
     "en": "Nuo Mask (Accessory)",
-    "hint": "已取得悲、怒、喜三塊儺面碎片，傳送回 #5 儺面祭壇，與老乞丐交談取得儺面飾品。",
+    "hint": "已取得悲、怒、喜三塊儺面碎片，傳送回 #5 儺面祭台，與老乞丐交談取得儺面飾品。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2344%20%E2%80%93%20Nuo"
    },
    {
@@ -4824,9 +4824,9 @@
    {
     "n": 49,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "心池水徑",
     "en": "Bell (Perfect Vessel Estate)",
-    "hint": "大廳右側啟動「完美容器莊園」鈴鐺。",
+    "hint": "大廳右側啟動「心池水徑」鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2349%20%E2%80%93%20Bell"
    },
    {
@@ -4834,7 +4834,7 @@
     "type": "黑石碎片",
     "zh": "",
     "en": "Blackstone Fragment",
-    "hint": "就在完美容器莊園鈴鐺旁取得黑石碎片。",
+    "hint": "就在心池水徑鈴鐺旁取得黑石碎片。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2350%20%E2%80%93%20Blackstone"
    },
    {
@@ -4857,9 +4857,9 @@
    {
     "n": 53,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "聖軀心池",
     "en": "Bell (Perfect Vessel Bond)",
-    "hint": "回完美容器莊園鈴鐺，離開大廳前行，啟動「完美容器羈絆」鈴鐺。",
+    "hint": "回心池水徑鈴鐺，離開大廳前行，啟動「聖軀心池」鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mirage-estate-pangzhen-collectible-locations/#:~:text=%2353%20%E2%80%93%20Bell"
    },
    {
@@ -4935,9 +4935,9 @@
    {
     "n": 6,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "最後的正道營地",
     "en": "Bell (The Last Mandate Encampment)",
-    "hint": "由銀之道沿主路前進穿過洞穴，出洞後上階梯啟動「最後正道大營」鈴鐺。",
+    "hint": "由銀之道沿主路前進穿過洞穴，出洞後上階梯啟動「最後的正道營地」鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mount-soulrend-collectible-locations/#:~:text=%236%20%E2%80%93%20Bell"
    },
    {
@@ -4945,7 +4945,7 @@
     "type": "鑄魂材料",
     "zh": "",
     "en": "Statue of the Loyal Hero (Tempering Material)",
-    "hint": "【限時】若已完成「隔絕楔子」（A Severed Mindseal），過最後正道大營鈴鐺後遇見影衛，劇情結束取得忠烈英雄像鑄魂材料；缺前置則不會出現。",
+    "hint": "【限時】若已完成「隔絕楔子」（A Severed Mindseal），過最後的正道營地鈴鐺後遇見影衛，劇情結束取得忠烈英雄像鑄魂材料；缺前置則不會出現。",
     "miss": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-mount-soulrend-collectible-locations/#:~:text=%237%20%E2%80%93%20Statue"
    },
@@ -4977,9 +4977,9 @@
    {
     "n": 11,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "巨物盤踞處",
     "en": "Bell (The Giant’s Lair)",
-    "hint": "由霜崖洞窟入洞，順著洞壁滑落，左側啟動「巨人巢穴」鈴鐺。",
+    "hint": "由霜崖洞窟入洞，順著洞壁滑落，左側啟動「巨物盤踞處」鈴鐺。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mount-soulrend-collectible-locations/#:~:text=%2311%20%E2%80%93%20Bell"
    },
    {
@@ -4987,7 +4987,7 @@
     "type": "記憶之花",
     "zh": "",
     "en": "Memory Flower",
-    "hint": "由巨人巢穴鈴鐺往右側結冰水面走，拾取記憶之花。",
+    "hint": "由巨物盤踞處鈴鐺往右側結冰水面走，拾取記憶之花。",
     "link": "https://www.powerpyx.com/phantom-blade-zero-mount-soulrend-collectible-locations/#:~:text=%2312%20%E2%80%93%20Memory"
    },
    {
@@ -5021,9 +5021,9 @@
    {
     "n": 16,
     "type": "鈴鐺",
-    "zh": "",
+    "zh": "最後的挽回之地",
     "en": "Bell (The Last Chance)",
-    "hint": "正前方啟動「最後機會」鈴鐺。【重大截止點】先另存新檔，確認十項紫色任務、五根龍柱／血脈覺醒與其餘限時收集，再繼續。",
+    "hint": "正前方啟動「最後的挽回之地」鈴鐺。【重大截止點】先另存新檔，確認十項紫色任務、五根龍柱／血脈覺醒與其餘限時收集，再繼續。",
     "miss": true,
     "link": "https://www.powerpyx.com/phantom-blade-zero-mount-soulrend-collectible-locations/#:~:text=%2316%20%E2%80%93%20Bell"
    },

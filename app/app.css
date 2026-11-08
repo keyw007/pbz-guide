@@ -83,3 +83,4 @@ table{width:100%;border-collapse:collapse;font-size:14px}td,th{border-bottom:1px
 @media print{.fab{display:none}}
 @media(max-width:950px){.app{display:block}.sidebar{height:auto;overflow:visible}.wrap{padding:14px 16px 80px}h1{font-size:24px}nav .grp{display:none}.toolbar{position:static;border:0;padding:0}.chip{padding:5px 10px;font-size:12px}}
 @media print{.sidebar,.toolbar,.navbtns{display:none}.app{display:block}.pt,.step{break-inside:avoid}body{background:#fff;color:#000}}
+.badge.guess{border-color:#555;color:#9aa}
