@@ -10,7 +10,8 @@ docs/            ← 輸出，整個資料夾就是網站（可直接放 GitHub 
 ## 更新攻略
 1. 用新版 HTML 覆蓋 `src/guide.html`（或直接改）
 2. `python3 build.py` → 自動產生新版本號（日期＋內容雜湊）
-3. 上傳 `docs/`
+3. `git add -A && git commit -m "更新攻略" && git push` → GitHub Pages 約 1 分鐘後上線
+   網址：https://keyw007.github.io/pbz-guide/
 4. 已安裝的手機／電腦 App 下次開啟（或從背景切回）會跳出「攻略本有新版本 · 立即更新」
 
 勾選進度存在裝置本機（`pbz_book_checks`），更新不會清掉。換裝置可用側欄「匯出／匯入進度」。
