@@ -93,10 +93,19 @@ function aboutPage(){return `<div class="kicker">ABOUT</div><h1>關於這本攻�
 <li>點位與路線：<a href="https://www.powerpyx.com/phantom-blade-zero-collectibles-guide-100-completion/" target="_blank" rel="noopener">PowerPyx 全收集</a>、<a href="https://www.powerpyx.com/phantom-blade-zero-all-side-quests-guide/" target="_blank" rel="noopener">全支線</a>、<a href="https://www.powerpyx.com/phantom-blade-zero-true-ending-guide/" target="_blank" rel="noopener">真結局</a></li>
 <li>中文名稱與流程：<a href="https://www.gamersky.com/handbook/Special/dbzero/" target="_blank" rel="noopener">遊民星空</a>、<a href="https://www.3dmgame.com/gl/3993074.html" target="_blank" rel="noopener">3DM</a>、<a href="https://www.phantombladezero.help/zh-hant/guide" target="_blank" rel="noopener">phantombladezero.help</a></li>
 <li>Boss 打法：allthings.how 各 Boss 頁、<a href="https://www.18183.com/gonglue/202610/9073424.html" target="_blank" rel="noopener">18183</a>、method.gg</li></ul>
-<p class="p">中文名稱取自簡體中文攻略轉繁體，未必與遊戲繁中介面逐字相同；每條都附英文原名方便搜尋。遊戲版本：PC v1.0302256（2026-11-04 更新，無新增內容）。</p></section>
+<p class="p">中文名稱取自簡體中文攻略轉繁體，未必與遊戲繁中介面逐字相同；每條都附英文原名方便搜尋。以 PS5 版為準，遊戲版本 1.302.289（2026-11-04 更新：新娘阿花抓取頻率降低、Boss 微調，無新增內容）。按鍵提示寫「互動鍵」等通用說法，以遊戲畫面為準。</p></section>
 <section class="seg"><h2><span>進度</span></h2><p class="p">勾選存在這台裝置。換裝置請用側欄 ⚙︎ 的「匯出／匯入進度」。V11 的點位勾選會自動沿用。</p><button class="chip" id="clearAll">清空所有勾選</button></section>`}
 
-const PAGES={boss:['Boss 圖鑑',bossPage],quests:['支線總表',questPage],endings:['結局條件',endingPage],stats:['收集進度',statsPage],about:['關於／來源',aboutPage]};
+function trophyPage(){
+  const T=G.trophies,k=i=>'v12:t:'+T[i].en;
+  let h=`<div class="kicker">PS5 TROPHIES</div><h1>PS5 白金獎盃</h1><p class="p">共 ${T.length} 項（1 白金、3 金、14 銀、18 銅）。標 ⚠ 的會因錯過支線或沒走真結局而失效，一輪白金就照本攻略的截止提醒做。Boss 類獎盃點名稱可跳到打法卡。</p>`;
+  const[d,n]=prog(T.map((_,i)=>k(i)));h+=bar(d,n);
+  const cats=[...new Set(T.map(t=>t.cat))];
+  cats.forEach(c=>{h+=`<section class="seg"><h2><span>${esc(c)}</span></h2>`;T.forEach((t,i)=>{if(t.cat!==c)return;const ok=!!S[k(i)];const b=t.boss&&G.bosses.find(x=>x.id===t.boss);
+    h+=`<div class="step${ok?' ok':''}" data-miss="${t.miss?1:0}"><input type="checkbox" data-k="${esc(k(i))}" ${ok?'checked':''}><div><b>${esc(t.en)}</b> ${t.miss?'<span class="badge b-miss">⚠ 易錯過</span>':''}<div class="hint">${b?`<a href="#" data-jump="boss-${b.id}" data-ch="${bossCh[b.id]||''}">${esc(t.how)}</a>`:esc(t.how)}</div><div class="en">${esc(t.where)}</div></div></div>`});h+='</section>'});
+  return h+'<p class="p" style="font-size:12px;color:var(--muted)">獎盃名稱依 PowerPyx、TrueTrophies 對照；中文說明為意譯。</p>';
+}
+const PAGES={boss:['Boss 圖鑑',bossPage],quests:['支線總表',questPage],trophies:['PS5 獎盃',trophyPage],endings:['結局條件',endingPage],stats:['收集進度',statsPage],about:['關於／來源',aboutPage]};
 
 // ---- 導覽 ----
 const nav=document.getElementById('nav');

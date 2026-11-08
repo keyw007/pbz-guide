@@ -138,6 +138,7 @@ def load_guide():
     points = json.loads((CONTENT / "points.json").read_text(encoding="utf-8"))
     bosses = json.loads((CONTENT / "bosses.json").read_text(encoding="utf-8"))
     quests = json.loads((CONTENT / "quests.json").read_text(encoding="utf-8"))
+    trophies = json.loads((CONTENT / "trophies.json").read_text(encoding="utf-8"))
     chapters, errs = parse_chapters((CONTENT / "chapters.md").read_text(encoding="utf-8"), points)
     ref = lambda s: (lambda r, n: r in points and any(p["n"] == int(n) for p in points[r]["points"]))(*s.split(":"))
     shorts = {c["short"] for c in chapters}
@@ -150,7 +151,11 @@ def load_guide():
     for d in {x for x in ids if ids.count(x) > 1}: errs.append(f"id 重複：{d}")
     if errs:
         print("內容檢查失敗：\n  " + "\n  ".join(errs)); sys.exit(1)
-    return {"chapters": chapters, "points": points, "bosses": bosses, "quests": quests}
+    for t in trophies:
+        if t.get("boss") and t["boss"] not in {b["id"] for b in bosses}: errs.append(f"獎盃 {t['en']}：找不到 Boss {t['boss']}")
+    if errs:
+        print("內容檢查失敗：\n  " + "\n  ".join(errs)); sys.exit(1)
+    return {"chapters": chapters, "points": points, "bosses": bosses, "quests": quests, "trophies": trophies}
 
 
 # ---------- 組裝 ----------
@@ -166,7 +171,7 @@ def main():
     html = tpl.replace("/*APP_CSS*/", acss).replace("/*GUIDE_JSON*/", gjson).replace("/*APP_JS*/", ajs)
 
     head = f"""<meta name="theme-color" content="{THEME}"/>
-<meta name="description" content="影之刃零 電腦版全流程攻略：九區路線、收集、Boss 詳解、地圖對照，可離線閱讀"/>
+<meta name="description" content="影之刃零 PS5 全流程攻略：依劇情一次拿完，九區路線、收集、Boss 打法、白金獎盃，可離線閱讀"/>
 <link rel="manifest" href="manifest.webmanifest"/>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml"/>
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png"/>
