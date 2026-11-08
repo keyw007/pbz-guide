@@ -1,0 +1,91 @@
+#1 [鈴鐺] Bell (Crimson Forest) | 中文名:血色森林 | 說明:劇情過場結束後向正前方走，開啟血色森林鈴鐺。
+#2 [記憶之花] Memory Flower | 中文名: | 說明:就在血色森林鈴鐺旁邊，拾取記憶之花。
+#3 [鈴鐺] Bell (Abandoned Main Road) | 中文名:荒廢官道 | 說明:跨過路障後沿道路邊，啟動荒廢官道鈴鐺。
+#4 [飾品] Shieldbreaker Talisman (Accessory) | 中文名: | 說明:跳過斷橋後，在敵人旁的小型腳手架寶箱拿破盾飾品。
+#5 [黑石碎片] Blackstone Fragment | 中文名: | 說明:沿主路進洞穴，不走壁跑路線而直接下落，敵人旁拾取黑石。
+#6 [鈴鐺] Bell (Pangzhen Bridge Overlook) | 中文名:遠眺龐鎮之橋 | 說明:走到巨大橋旁路邊，啟動遠眺龐鎮之橋鈴鐺。
+#7 [武器] The Fanatic’s Broken Blade (Weapon) | 中文名:癡者殘劍 | 說明:主線擊敗劍癡花千笑，獲得殘劍武器。
+#8 [秘藥] Simmering Brew (Medicine) | 中文名: | 說明:大橋坍落後沿橫樑盪越，前方直接拾取秘藥。
+#9 [記憶之花] Memory Flower | 中文名: | 說明:沿崖壁進洞穴，右側狗群守著記憶之花。
+#10 [鈴鐺] Bell (Trail of Cages) | 中文名:掛籠小道 | 說明:繼續穿過洞穴，到崖面開啟掛籠小道鈴鐺。
+#11 [記憶之花] Memory Flower | 中文名: | 說明:遇見妙手小張後進崖邊洞穴，往較低岩台取得記憶之花。
+#12 [黑石碎片] Blackstone Fragment | 中文名: | 說明:從記憶之花往下走進有毒的水，在箱中拿黑石；毒水會持續傷害，盡速離開。
+#13 [飾品] Cavalrybane (Accessory) | 中文名: | 說明:到洞穴終點先轉動機關把妙手小張囚籠放下；再落到機關旁下層腳手架開箱取騎兵剋星飾品。
+#14 [鈴鐺] Bell (Outlaw Trap) | 中文名:亡命徒陷阱 | 說明:從妙手小張處沿崖壁越過洞穴、過橋，避開大敵人，左側開亡命徒陷阱鈴鐺。
+#15 [記憶之花] Memory Flower | 中文名: | 說明:從亡命徒陷阱鈴鐺回頭朝騎馬敵人方向，右側拾記憶之花；前面洞穴另取保命符碎片一和隧道手柄。
+#16 [支線] Honor Among Thieves (Tale) | 中文名: | 說明:【限時】出洞沿坡向上，擊敗營火旁敵人接「盜亦有道」，須在白赤練前完成。
+#17 [道具] Preservation Jar | 中文名: | 說明:從亡命徒陷阱鈴鐺以隧道手柄開洞，走右橋取保命符碎片二，集齊合成保命罐。
+#18 [寶藏] Sect Leader’s Snuff Bottle (Treasure) | 中文名: | 說明:從前項沿洞往前，在寶箱取宗主鼻煙壺，屬妙手小張的三寶之一。
+#19 [殺氣琥珀] Sha-Chi Amber Fragment | 中文名: | 說明:返回洞穴另一邊，過門開寶箱取殺氣琥珀。
+#20 [秘藥] Kuye Dew (Medicine) | 中文名: | 說明:從上一處向下走樓梯，到屍體堆附近取苦葉露。
+#21 [武器] Outlaw Warblade (Weapon) | 中文名:亡命斬馬刀 | 說明:【截止！】打荊野前回悲泣溪谷交完玉兒見習醫師；之後擊敗荊野取得飛賊斬馬刀。
+#22 [記憶之花] Memory Flower | 中文名: | 說明:從荊野戰場向左前進，抵小木橋時從右側往下落，拿記憶之花。
+#23 [支線] Secrets of the Baishan Sect (Tale) | 中文名: | 說明:在大木橋上與蘭蘭對話接「白山秘聞」，不要急著向後續主線進發。
+#24 [鈴鐺] Bell (Thieves’ Camp) | 中文名:飛賊營地 | 說明:越過大木橋，正前方開啟飛賊營地鈴鐺。
+#25 [飾品] Silent Wrap (Accessory) | 中文名: | 說明:【限時】向營地溫和飛賊回答三題：地主玉帶、蝴蝶、信未交代其命運；領靜默纏布，白赤練前完成。
+#26 [支線] A Healer’s Mercy (Tale) | 中文名: | 說明:【限時】與飛賊營地鈴鐺旁玉兒談話接「救死扶傷」，白赤練前救好四名傷者並回報。
+#27 [飾品] Quick Hand Pendant (Accessory) | 中文名: | 說明:由飛賊營地沿道路出去、攀牆入小洞找妙手小張；如先前成功放籠可取得妙手吊墜，並開啟商店。
+#28 [支線] Quick Hand’s Request (Tale) / The Wily Hare’s Three Dens (Tale) | 中文名: | 說明:與妙手小張再談本地寶藏及其他藏身處，接尋寶相關支線，記得三寶交回兌換武裝。
+#29 [記憶之花] Memory Flower | 中文名: | 說明:從小張藏身處出來，沿崖壁木棧道走進洞穴，取得記憶之花。
+#30 [寶藏] Bloodstained Seal (Treasure) | 中文名: | 說明:繼續向前，左側寶箱取得血染印章（第二寶）。
+#31 [黑石碎片] Blackstone Fragment | 中文名: | 說明:出洞上階梯進左邊建築拿森林驛站前小院鑰匙；出屋進另一房寶箱拿黑石。
+#32 [鈴鐺] Bell (Red Serpent House) | 中文名:赤蛇屋 | 說明:解鎖森林驛站前小院後，往前啟動赤蛇屋鈴鐺。
+#33 [鈴鐺] Bell (Cliff of Longing) | 中文名:人偶思鄉之崖 | 說明:由赤蛇屋鈴鐺往山坡上，連續登階並攀上前方牆壁，啟動人偶思鄉之崖鈴鐺。
+#34 [鈴鐺] Bell (Cliffside Lodge) | 中文名:懸崖山舍 | 說明:從人偶思鄉之崖下小崖、越斷橋，到旅舍後方開懸崖山舍鈴鐺。
+#35 [殺氣琥珀] Sha-Chi Amber Fragment | 中文名: | 說明:從旅舍鈴鐺爬梯、穿過毒房到陽台取地窖手柄；在旅舍使用後下樓，右側毒房寶箱有琥珀。
+#36 [黑石碎片] Blackstone Fragment / Crimson Forest Secret Chamber Crank | 中文名: | 說明:回主要房間，落到兩個平台中間的木板，再往平台底下撿黑石和祕密房手柄。
+#37 [記憶之花] Memory Flower | 中文名: | 說明:落到最底部穿過大洞口取得記憶之花；回頭走另一條路，用祕密房手柄開鎖門與少女交談推進白山秘聞。
+#38 [寶藏] Ancient Crossbow (Treasure) | 中文名: | 說明:上樓並落到岩台拿營地地牢鑰匙；沿路先與第三名傷者交談。回飛賊營地地牢開門與第四名傷者談話，角落寶箱取古代弩（第三寶）。
+#39 [殺氣琥珀] Sha-Chi Amber Fragment | 中文名: | 說明:從地牢傷者處回頭、下梯擊敗兩名敵人取得洞穴牢房鑰匙；木平台下方拿琥珀。
+#40 [殺氣琥珀] Sha-Chi Amber Fragment | 中文名: | 說明:爬回梯子，用洞穴牢房鑰匙開鎖籠取琥珀。
+#41 [飾品] Calming Gourd (Accessory) | 中文名: | 說明:【限時】確認四名傷者都已對話救治，回飛賊營地玉兒交任務領安神葫蘆；白赤練前完成。
+#42 [影之武裝] Flying Dagger (Phantom Edge) | 中文名: | 說明:拿齊鼻煙壺、血染印章、古代弩，回妙手小張交付，領飛刀影之武裝。
+#43 [記憶之花] Memory Flower | 中文名: | 說明:逃亡過場結束後正前方取得記憶之花。
+#44 [鈴鐺] Bell (Mirrorwood Entrance) | 中文名:鏡林入口 | 說明:緊鄰前項，啟動鏡林入口鈴鐺。
+#45 [影之武裝] Iron Gauntlets (Phantom Edge) | 中文名: | 說明:主線擊敗拳癡鐵狂，取得鐵手套影之武裝。
+#46 [記憶之花] Memory Flower | 中文名: | 說明:在拳癡鐵狂戰場內拾取記憶之花。
+#47 [記憶之花] Memory Flower | 中文名: | 說明:從戰場繼續進前方洞穴，拿記憶之花。
+#48 [鈴鐺] Bell (Mirrorwood Long Pillar) | 中文名:鏡林龍柱 | 說明:從前項走右岔路出洞，再入左側紅光區，開鏡林龍柱鈴鐺。
+#49 [挑戰] Crimson Forest Long Pillar (Challenge Location) | 中文名: | 說明:在鏡林龍柱鈴鐺旁啟動挑戰；高難度，可先標記待回訪。
+#50 [飾品] Miraculous Scabbard (Accessory) | 中文名: | 說明:完成龍柱挑戰取得奇蹟劍鞘飾品；確認領到獎勵。
+#51 [鈴鐺] Bell (Burial Grounds) | 中文名:遺冢地 | 說明:從龍柱往河邊，盪過枝條後前方開遺冢地鈴鐺。
+#52 [記憶之花] Memory Flower | 中文名: | 說明:遺冢地鈴鐺正前方敵群旁取得記憶之花。
+#53 [記憶之花] Memory Flower | 中文名: | 說明:繼續到霧林，貼右牆走並留意左側岩石旁的記憶之花。
+#54 [鈴鐺] Bell (Parting Mists) | 中文名:迷霧消散處 | 說明:虛空幻境過場後往下落，眼前開迷霧消散處鈴鐺。
+#55 [挑戰] Banyan Tree (Challenge Location) | 中文名: | 說明:從迷霧消散處鈴鐺落下往右邊大榕樹互動，完成多波敵人挑戰，最後需再戰荊野。
+#56 [記憶之花] Memory Flower | 中文名: | 說明:榕樹返回陸地沿上坡走，下落懸崖後前方是記憶之花。
+#57 [記憶之花] Memory Flower | 中文名: | 說明:繼續到懸崖底部，過河對岸拾取記憶之花。
+#58 [鈴鐺] Bell (Mirrorwood Depths) | 中文名:鏡林深處 | 說明:前一朵花正後方開鏡林深處鈴鐺。
+#59 [記憶之花] Memory Flower | 中文名: | 說明:過前方大門立即拾取記憶之花。
+#60 [記憶之花] Memory Flower | 中文名: | 說明:完成第一段鏡林驅霧機關後，正前方取得記憶之花。
+#61 [記憶之花] Memory Flower | 中文名: | 說明:緊接上項，沿前路再取得一朵記憶之花。
+#62 [鈴鐺] Bell (Threadbound Great Tree) | 中文名:絲線纏繞的巨樹 | 說明:完成第二段驅霧機關後正前方，開絲線纏繞的巨樹鈴鐺。
+#63 [武器] White Serpent & Crimson Viper (Weapon) | 中文名:白蟒赤練 | 說明:【截止！】白赤練前完成清理門戶、腐敗祕聞、盜亦有道、救死扶傷。主線打倒白赤練後取得白蟒赤練武器。
+#64 [飾品] Resonance Talisman (Accessory) | 中文名: | 說明:與白赤練同一戰的另一獎勵：共鳴護符。確認兩件都有。
+#65 [飾品] Seal of Dugu (Accessory) | 中文名: | 說明:【回訪：抵陸家村接一個不留】飛賊營地鈴鐺走回大木橋打倒敵人，取得獨孤印飾品。
+#66 [飾品] Brass Chest Guard (Accessory) | 中文名: | 說明:【回訪：取得堡壘盾】飛賊營地地牢下降，下層用堡壘盾穿箭矢陷阱開箱拿銅護胸。
+#67 [記憶之花] Memory Flower | 中文名: | 說明:從前項爬梯，堡壘盾穿過另一處箭陣到新區域，右側騎馬敵人附近田地取得記憶之花。
+#68 [鈴鐺] Bell (Lakeside Arch Bridge) | 中文名:湖岸拱橋 | 說明:附近石橋上開湖岸拱橋鈴鐺；妙手小張洞口附近擊敗敵人另取飛賊手冊，供陸家村受傷飛賊使用。
+#69 [飾品] Frostward (Accessory) | 中文名: | 說明:【回訪：進入戲夢山莊後冰雪化】從遺冢地鈴鐺一路往前上坡，前方落下處拾冰霜防護飾品。
+#70 [鈴鐺] Bell (Crimson Forest Sha-Chi Tower Gate) | 中文名: | 說明:從前項過橋續行，於殺氣塔入口開鈴鐺。
+#71 [殺氣琥珀] Sha-Chi Amber Fragment | 中文名: | 說明:塔入口鈴鐺右轉貼右牆走到陽台，再下降到底拿琥珀。
+#72 [道具] Honed Blacksteel | 中文名: | 說明:回塔內、從管線上的梯子向下，順路到底取淬鍊黑鋼。
+#73 [黑石碎片] Blackstone Fragment | 中文名: | 說明:塔入口鈴鐺向左上樓，落至屋頂後續走到下一段樓梯，繞其右後方取黑石。
+#74 [鈴鐺] Bell (Crimson Forest Sha-Chi Tower 6th Floor) | 中文名: | 說明:接上項登階，在小陽台開殺氣塔六樓鈴鐺；旁邊找鬼刃交隔絕楔子第一步。
+#75 [鈴鐺] Bell (Crimson Forest Sha-Chi Tower Base) | 中文名: | 說明:從六樓鈴鐺搭電梯下樓，沿路到梯子旁啟動溪谷殺氣塔底鈴鐺。
+#76 [黑石碎片] Blackstone Fragment | 中文名: | 說明:底部鈴鐺回頭下木坡，走到底開箱取黑石。
+#77 [秘藥] Miracle Remedy (Medicine) | 中文名: | 說明:與前項同地點的另一箱取得神奇藥劑；底部鈴鐺爬梯到爐旁可取塔鑰匙和原初石，帶回六樓找鬼刃。
+#78 [鑄魂材料] Supreme Order Token (Tempering Material) | 中文名: | 說明:六樓鈴鐺使用鑰匙開門登屋頂，過場後取得至尊令牌鑄魂材料。
+#79 [支線] Use it Against Them (Tale) | 中文名: | 說明:過場後與玉舞者談話接「以彼之道」任務。
+#80 [支線] Heart of the Fist (Tale) | 中文名: | 說明:與鐵魔談話接「拳心」任務。
+#81 [鑄魂材料] Heel Reinforcement Part (Tempering Material) | 中文名: | 說明:只裝備妖鋸武器與鐵手套影之武裝，再與玉舞者切磋取得足跟強化零件。
+#82 [鑄魂材料] Worldbreaker Fist (Tempering Material) | 中文名: | 說明:從遺冢地鈴鐺與左前方大墓碑互動，取得破界拳鑄魂材料。
+#83 [鈴鐺] Bell (Parting Mists) – Recollect | 中文名:迷霧消散處 | 說明:【冰雪重啟】遺冢地鈴鐺沿前路下坡穿霧，重開迷霧消散處鈴鐺。
+#84 [鈴鐺] Bell (Mirrorwood Depths) – Recollect | 中文名:鏡林深處 | 說明:【冰雪重啟】從迷霧消散處向下到林中門口，重開鏡林深處鈴鐺。
+#85 [殺氣琥珀] Sha-Chi Amber Fragment | 中文名: | 說明:從鏡林深處鈴鐺穿大門，右側拿琥珀。
+#86 [飾品] Chaos Ring (Accessory) | 中文名: | 說明:進入下一片樹林，右側取得混沌戒指。
+#87 [鈴鐺] Bell (Threadbound Great Tree) – Recollect | 中文名:絲線纏繞的巨樹 | 說明:【冰雪重啟】從前項繼續往前，重開絲線纏繞的巨樹鈴鐺。
+#88 [武器] Freezing Chaos (Weapon) | 中文名:刺骨混沌 | 說明:【易錯過】回訪戰混沌魔偶玉琮前，必須用已鑄魂為熾焰之刃的血色長兵器打最後一擊；取得刺骨混沌武器。
+#89 [鑄魂材料] Chaos Twin Daggers (Tempering Material) | 中文名: | 說明:與前項同一 Boss 的混沌雙匕鑄魂材料；若傀儡未出現先完成溪谷三面混沌。
+#90 [鈴鐺] Bell (Mirrorwood Long Pillar) – Recollect | 中文名:鏡林龍柱 | 說明:【冰雪重啟】從鏡林入口走主路出洞，左側重開鏡林龍柱鈴鐺。
+#91 [鑄魂材料] Song of Parting (Tempering Material) | 中文名: | 說明:【回訪：取得虎炮】懸崖山舍鈴鐺往地下室，下隧道向北到底炸開牆，領離別之歌鑄魂材料。

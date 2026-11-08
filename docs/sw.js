@@ -1,5 +1,5 @@
 /* 影之刃零攻略本 Service Worker — 版本由 build.py 寫入，內容一變就會觸發更新 */
-const VERSION='2026.11.08-f7a500d';
+const VERSION='2026.11.08-74aeea6';
 const CACHE='pbz-guide-'+VERSION;
 const ASSETS=['./','./index.html','./manifest.webmanifest','./icons/icon-192.png','./icons/icon-512.png','./icons/icon-maskable-512.png','./icons/apple-touch-icon.png','./icons/icon.svg'];
 
