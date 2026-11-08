@@ -1,0 +1,79 @@
+:root{--bg:#101318;--panel:#1a2028;--panel2:#202832;--fg:#f0ece5;--muted:#a7b0bb;--gold:#d7ac72;--line:#323d48;--red:#ef9a9a;--green:#92d3af;--blue:#8fb8e8;--boss:#c47a6a}
+*{box-sizing:border-box}html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif;background:var(--bg);color:var(--fg);line-height:1.65}
+button,input,select{font:inherit;color:inherit}a{color:#e5bb87}
+.app{display:grid;grid-template-columns:260px minmax(0,1fr);min-height:100vh}
+.sidebar{position:sticky;top:0;height:100vh;overflow-y:auto;background:#141a21;border-right:1px solid var(--line);padding:20px 16px}
+.brand{font-size:22px;font-weight:800;letter-spacing:1px;color:var(--gold)}
+.brand small{display:block;font-size:11px;font-weight:400;color:var(--muted);letter-spacing:0}
+nav{margin-top:18px;display:grid;gap:2px}
+nav .grp{font-size:11px;color:var(--muted);letter-spacing:2px;margin:12px 10px 4px}
+nav button{background:transparent;border:0;text-align:left;cursor:pointer;padding:8px 10px;border-radius:8px;color:var(--muted);display:flex;justify-content:space-between;gap:8px}
+nav button:hover,nav button.on{background:var(--panel2);color:#fff}
+nav button .pc{font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
+nav button.done .pc{color:var(--green)}
+main{min-width:0}
+.wrap{max-width:980px;margin:auto;padding:26px 28px 90px}
+.toolbar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:18px;position:sticky;top:0;z-index:20;background:var(--bg);padding:10px 0;border-bottom:1px solid var(--line)}
+.toolbar input{flex:1;min-width:180px;background:var(--panel);border:1px solid var(--line);border-radius:9px;padding:9px 13px}
+.chip{background:var(--panel);border:1px solid var(--line);border-radius:20px;padding:6px 12px;cursor:pointer;font-size:13px;color:var(--muted)}
+.chip.on{background:#3a2e22;border-color:#a37b4f;color:#f5dcb9}
+h1{font-size:30px;margin:6px 0 4px;line-height:1.25}
+.kicker{color:var(--gold);letter-spacing:2px;font-size:12px}
+.intro{color:#c9d0d6}
+.bar{height:6px;background:var(--panel2);border-radius:4px;overflow:hidden;margin:10px 0 4px}.bar i{display:block;height:100%;background:linear-gradient(90deg,#9b7446,#d7ac72)}
+.barlbl{font-size:12px;color:var(--muted)}
+.seg{margin-top:30px}
+.seg>h2{font-size:20px;color:var(--gold);margin:0 0 8px;padding-top:8px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:10px;align-items:baseline}
+.seg>h2 .pc{font-size:12px;color:var(--muted);font-weight:400}
+.p{margin:8px 0;color:#d6dbe0}
+.warn{border-left:4px solid #c78c65;background:#2b2321;padding:10px 14px;margin:10px 0;border-radius:4px}
+.tip{border-left:4px solid #5f8f78;background:#18241f;padding:10px 14px;margin:10px 0;border-radius:4px}
+.step,.pt{display:grid;grid-template-columns:28px minmax(0,1fr);gap:8px;align-items:start;padding:9px 10px;border-radius:10px;margin:4px 0}
+.step{background:#161c23}
+.pt{background:var(--panel);border:1px solid transparent}
+.pt.miss{border-color:#6e4b3b}
+.pt.ok,.step.ok{opacity:.45}
+.pt.ok:hover,.step.ok:hover{opacity:.8}
+input[type=checkbox]{width:20px;height:20px;margin:2px 0 0;accent-color:#c99a5f;cursor:pointer}
+.pt .top{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.num{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.ty{font-size:12px;padding:1px 8px;border-radius:6px;background:#2a333e;color:#d4dae0}
+.ty.t-Boss,.ty.t-武器,.ty.t-影之武裝{background:#3b2a27;color:#f1c4b5}
+.ty.t-鈴鐺{background:#2a3140;color:#c3d4f0}
+.ty.t-記憶之花{background:#33283b;color:#e2c9f0}
+.ty.t-支線{background:#2c3a2f;color:#bfe3c8}
+.ty.t-寶藏,.ty.t-殺氣琥珀,.ty.t-黑石碎片{background:#3a3424;color:#eedca8}
+.badge{font-size:11px;padding:1px 7px;border-radius:6px;border:1px solid}
+.b-miss{border-color:#a3664b;color:#f0b495}.b-chest{border-color:#7d6a45;color:#e6cf9a}.b-q{border-color:#4c7a5d;color:#a9dcbb;cursor:pointer}
+.nm{font-weight:600;color:#efe0c0}
+.hint{color:#d6dbe0;margin-top:2px}
+.en{font-size:12px;color:#8c96a1}
+.en a{color:#8c96a1}
+.boss{background:linear-gradient(135deg,#2a1d1b,#1d1a1f);border:1px solid #6b443a;border-radius:12px;margin:14px 0;overflow:hidden}
+.boss summary{list-style:none;cursor:pointer;padding:12px 14px;display:flex;gap:10px;align-items:center}
+.boss summary::-webkit-details-marker{display:none}
+.boss .bt{font-size:11px;letter-spacing:2px;color:#e39b86}
+.boss .bn{font-weight:800;font-size:17px}
+.boss .be{font-size:12px;color:#a99}
+.boss .bd{padding:0 14px 14px}
+.boss ul{margin:6px 0;padding-left:20px}.boss li{margin:4px 0}
+.boss .meta{font-size:13px;color:#d9c3b8}
+.boss .src{font-size:12px}
+.boss .todo{font-size:12px;color:#c9a28f;font-style:italic}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin:10px 0}
+.card h3{margin:0 0 6px;font-size:17px}
+.qcat{font-size:12px;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px}
+.stat{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px}
+.stat b{display:block;font-size:22px;color:var(--gold)}
+table{width:100%;border-collapse:collapse;font-size:14px}td,th{border-bottom:1px solid var(--line);padding:7px 6px;text-align:left;vertical-align:top}
+.hidden{display:none!important}
+.flash{animation:fl 1.6s ease}@keyframes fl{0%{background:#5a4430}100%{}}
+.footer{margin-top:50px;font-size:12px;color:var(--muted);border-top:1px solid var(--line);padding-top:14px}
+.navbtns{display:flex;justify-content:space-between;gap:10px;margin-top:40px}
+.navbtns button{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:10px 14px;cursor:pointer}
+.res{padding:10px 12px;border-radius:9px;background:var(--panel);margin:6px 0;cursor:pointer}.res:hover{background:var(--panel2)}
+.res small{color:var(--muted)}
+@media(max-width:950px){.app{display:block}.sidebar{height:auto;overflow:visible}.wrap{padding:14px 16px 80px}h1{font-size:24px}nav .grp{display:none}.toolbar{position:static;border:0;padding:0}.chip{padding:5px 10px;font-size:12px}}
+@media print{.sidebar,.toolbar,.navbtns{display:none}.app{display:block}.pt,.step{break-inside:avoid}body{background:#fff;color:#000}}

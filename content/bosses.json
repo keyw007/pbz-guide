@@ -1,0 +1,842 @@
+[
+ {
+  "id": "zuoshang0",
+  "name": "少年左殤",
+  "en": "Zuo Shang (tutorial)",
+  "at": null,
+  "ch": "序章",
+  "main": true,
+  "tips": [
+   "劇情教學戰，輸了也會推進。",
+   "練習：藍光＝招架、紅光＝閃避，熟悉殺氣條。"
+  ]
+ },
+ {
+  "id": "jagged",
+  "name": "癡狂暴徒：殘鋼",
+  "en": "Jagged Steel, The Frenzied Brute",
+  "at": "悲泣溪谷:13",
+  "main": true,
+  "hp": "8,280",
+  "tips": [
+   "招架／完美閃避教學戰：藍光招架，紅光在命中前一刻閃避。",
+   "盯住血條下方的殺氣條，削空後他會破防，趁機輸出。",
+   "黑傷與黑傷雙刃互相切換可回殺氣。",
+   "連段附帶約 3 秒流血，被打中先拉開再補血。"
+  ],
+  "reward": "殘鋼刃（流血武器）",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-jagged-steel-boss/"
+  ]
+ },
+ {
+  "id": "pengmeng",
+  "name": "斧老大：彭猛",
+  "en": "Axemaster Peng Meng",
+  "at": "悲泣溪谷:22",
+  "main": true,
+  "hp": "18,720",
+  "tips": [
+   "背身蓄力、身上黑光的重砸：格擋會清空殺氣，一律閃避。",
+   "紅光抓取不可招架：看到紅光後約 0.5 秒再閃，太早會被抓。",
+   "衝擊波圈接下劈：先跑出圈，再招架或閃下劈。",
+   "血量很低時會停下連段、原地硬直狂亂，可貼身持續輸出。",
+   "常見失誤：第一下後放下防禦、連段中補血。"
+  ],
+  "reward": "巨凶斧（可破壞障礙）、9,000 意識塵埃",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-peng-meng-boss-fight/",
+   "https://www.18183.com/gonglue/202610/9073424.html"
+  ]
+ },
+ {
+  "id": "hua",
+  "name": "新娘阿花",
+  "en": "Hua, Deadly Betrothed",
+  "at": "悲泣溪谷:35",
+  "main": true,
+  "hp": "21,060",
+  "tips": [
+   "她是人偶：殘鋼刃的流血無效，改用黑傷系武器。",
+   "兩段揮擊兩下都要招架；長距離斬擊後退躲不掉，要提早招架；低掃改閃。",
+   "白百合追蹤可招架，追到或消失後她會瞬移攻擊；紅百合會收縮合體爆炸，遠離。",
+   "頭上出現花苞＝即將抓取；紅光抓取等約 1 秒再閃。",
+   "11/4 更新後 Wayfarer／Pathbreaker 難度抓取頻率降低。"
+  ],
+  "reward": "紅妝鬼斬（早期破盾武器）",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-hua-deadly-betrothed-boss-fight/"
+  ]
+ },
+ {
+  "id": "hunt",
+  "name": "「組織」獵殺者：追命",
+  "en": "The Hunt, Hunter of the Order",
+  "at": "悲泣溪谷:41",
+  "main": true,
+  "hp": "18,720 → 六絕凶鐮 20,645",
+  "tips": [
+   "二階段（六絕凶鐮）死亡會從二階段重來。",
+   "長鎖鏈鞭打約 15 m：橫向側閃，不要直線後退。",
+   "鉤爪抓取：鎖鏈接近時才閃，不是一丟出就閃。",
+   "他懸在鎖鏈上時精準招架藍光，會瞬移到他身邊連擊。",
+   "紫色鎖鏈垂直落下：橫向跑；落地前點一下格擋可製造大破綻；龍捲風等結束再上。"
+  ],
+  "reward": "追命鎖鐮（解鎖鉤索）、20,000 意識塵埃",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-the-hunt-boss-fight/"
+  ]
+ },
+ {
+  "id": "scavenger",
+  "name": "活人偶清道夫＋滅法之法：寒歲",
+  "en": "The Puppet Scavenger + Acolyte Hansui",
+  "at": "悲泣溪谷:60",
+  "main": false,
+  "tips": [
+   "緋紅山莊（紅房子）地下，需傀儡之舌才能進入，屬後期回訪。"
+  ],
+  "reward": "合金鐮刃鑄魂材料、陽屬傀儡眼、寒歲面具",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "threeface",
+  "name": "三張臉的詭異魔偶",
+  "en": "Aberrant Three-Faced Puppet",
+  "at": "悲泣溪谷:3",
+  "main": false,
+  "tips": [
+   "溪谷夫人裂隙雕像接「三面混沌」挑戰；難度高，建議中後期再打。",
+   "完成後才會在血色森林遇到混沌魔偶玉琮。"
+  ],
+  "note": "打法資料待補"
+ },
+ {
+  "id": "goldmask",
+  "name": "金面具黑衣人",
+  "en": "The Gold-Masked One",
+  "at": null,
+  "ch": "悲泣溪谷",
+  "main": false,
+  "tips": [
+   "溪谷、血色森林、梅谷湖三處遭遇戰。"
+  ],
+  "note": "打法資料待補"
+ },
+ {
+  "id": "qianxiao",
+  "name": "劍癡：花千笑",
+  "en": "Hua Qianxiao, the Sword Fanatic",
+  "at": "血色森林:7",
+  "main": true,
+  "tips": [
+   "中距離用飛劍攻擊。",
+   "他喝酒時殺氣轉為護盾，喝完會震開身邊所有人：喝酒時退到橋的另一端。",
+   "殺氣下降時再貼近，打破後連擊。",
+   "側身轉一圈再斬＝紅光，完美閃避；地板旋轉招往外閃；快速連段打完再反擊。"
+  ],
+  "reward": "癡者殘劍（醉酒時強化的飛劍）",
+  "src": [
+   "https://www.18183.com/gonglue/202610/9072916.html"
+  ]
+ },
+ {
+  "id": "jingye",
+  "name": "亡命徒：荊野",
+  "en": "Jing Ye, The Outlaw",
+  "at": "血色森林:21",
+  "main": true,
+  "hp": "44,083",
+  "tips": [
+   "⚠ 開打前先回悲泣溪谷交完「見習醫師」，擊敗他後任務失敗。",
+   "騎馬階段：衝鋒側閃（後退會被追打），紅光衝鋒閃避；約掉 40% 血下馬（18183 寫 1/2～2/3）。",
+   "血滴彈幕會累積流血：連點招架擋掉。",
+   "下馬後持荊棘盾：煙霧後的黑光突刺招架會清空殺氣，一定要閃；打到盾會反傷。",
+   "裝備：巨凶斧蓄力破盾、斬騎符、破盾符；癡者殘劍喝醉後可遠程打騎馬階段。"
+  ],
+  "reward": "亡命斬馬刀（吸血，中前期首選）",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-jing-ye-boss-fight/",
+   "https://www.18183.com/gonglue/202610/9073424_2.html"
+  ]
+ },
+ {
+  "id": "ironfever",
+  "name": "拳癡：鐵狂",
+  "en": "Stone Hand Iron Fever",
+  "at": "血色森林:45",
+  "main": true,
+  "hp": "33,062",
+  "tips": [
+   "約 2/3 血時殺氣迸發，攻勢變猛。",
+   "紅光抓取：閃避後馬上再閃一次躲後續突進。",
+   "紅光跳砸：落地瞬間閃，之後反擊。",
+   "藍光拳連段招架；四段連擊格擋約 2 秒後反擊，留意連段結尾的紅光。",
+   "距離 4 m 以上再補血；破防後用亡命斬馬刀吸血補回。"
+  ],
+  "reward": "鐵拳套影之武裝（消耗純殺氣的三段蓄力，之後削殺氣條的主力）",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-iron-fever-boss-fight/"
+  ]
+ },
+ {
+  "id": "baichilian",
+  "name": "雙蛇夫人：白赤練",
+  "en": "Bai Chilian, Lady of the Twin Serpents",
+  "at": "血色森林:63",
+  "main": true,
+  "hp": "29,389 → 獻祭之蛇 33,062",
+  "tips": [
+   "⚠ 截止點：清理門戶、腐敗祕聞、盜亦有道、救死扶傷、四凶斧前哨部分都要先完成；白山秘聞要先接。",
+   "收齊 6 朵虛空記憶之花，二階段弦音會來助戰。",
+   "一階：月牙橫掃、緞帶雙斬招架，突進一出手就要招架（判定早）；紅光與強力突進閃避；蛇是直線，往同一側閃。",
+   "二階：旋轉三段突刺破防很快，起身時閃；浮空飛出畫面立刻閃，第二下是紅光。",
+   "召喚雜兵時殺掉兩隻她會立刻硬直；葫蘆留到二階段。"
+  ],
+  "reward": "白蟒赤練、共鳴護符、殘破幻術琵琶",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-bai-chilian-boss-fight/"
+  ]
+ },
+ {
+  "id": "yucong",
+  "name": "卅四號·混沌魔偶「玉琮」",
+  "en": "Yucong, No. 34 Twisted Puppet",
+  "at": "血色森林:88",
+  "main": false,
+  "hp": "185,100＋鋼刃／寒冰／混沌三形態 各 111,060",
+  "tips": [
+   "⚠ 要拿刺骨混沌：最後一擊必須用已鑄魂成「熾焰之刃」的血色長兵器。",
+   "若沒出現，先完成悲泣溪谷「三面混沌」。",
+   "屬冰雪化後的高難度回訪 Boss。"
+  ],
+  "reward": "刺骨混沌、混沌雙匕鑄魂材料",
+  "note": "招式打法資料待補",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-freezing-chaos/"
+  ]
+ },
+ {
+  "id": "zhuobi",
+  "name": "守門人：拙壁",
+  "en": "Zhuo Bi, The Gatekeeper",
+  "at": "陸家村:10",
+  "main": true,
+  "hp": "41,800＋盾條",
+  "tips": [
+   "盾條打空會破防約 10–15 秒，之後回滿：用鐵拳套蓄力三段削盾→處決→循環。",
+   "盾擊、揮盾、長柄橫掃、藍光、四段連擊都招架；跳砸橫向閃；地刺橫向離開。",
+   "紅光（約 225 傷害、穿防）一定閃。",
+   "常見失誤：打舉起的盾、格擋紅光、以為閃避能削盾。"
+  ],
+  "reward": "堡壘盾影之武裝（可擋箭陣，回血色森林用）、15,000 意識塵埃；場邊寶箱有黑石",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-zhuo-bi-boss-fight/"
+  ]
+ },
+ {
+  "id": "biyuan",
+  "name": "天玄派：畢遠掌門殘軀",
+  "en": "Master Bi Yuan",
+  "at": "陸家村:33",
+  "main": true,
+  "hp": "41,800",
+  "tips": [
+   "動作慢、攻擊性低，適合練招架。",
+   "近身劍連段、月牙橫掃招架；側步突刺（801 傷害）在他轉向你時閃。",
+   "前衝斬：弱的招架、強的閃；青色劍弧閃穿或貼近；飛斬橫向閃。",
+   "他舉防時用鐵拳套蓄力擊退，再用亡命斬馬刀吸血。"
+  ],
+  "reward": "天玄青銅劍（降低格擋殺氣消耗）",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-master-bi-yuan-boss-fight/"
+  ]
+ },
+ {
+  "id": "bihai",
+  "name": "苦葉寺：碧海大師殘軀",
+  "en": "Master Bi Hai",
+  "at": "陸家村:42",
+  "main": true,
+  "tips": [
+   "機制戰：金鐘罩期間無敵，依序擊殺銅僧→鐵僧（環刃）→金僧來削罩；第一波時他不出手。",
+   "天玄青銅劍「格擋」破罩最快；巨凶斧蓄力或鐵拳套也可；別用血刃雙子。",
+   "破罩後近身戰：出罩時的爆炸要閃，身上金光＝連打，舉防。"
+  ],
+  "reward": "苦葉寺珠串影之武裝（召喚僧人助戰，後期清雜兵很強）",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-master-bi-hai-boss-fight/"
+  ]
+ },
+ {
+  "id": "yanru",
+  "name": "滅法之法：炎茹",
+  "en": "Acolyte Yanru",
+  "at": "陸家村:48",
+  "main": false,
+  "tips": [
+   "梯田稻草人隱藏挑戰。"
+  ],
+  "reward": "炎茹火焰面具",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "dangsui",
+  "name": "操偶師：蕩穢",
+  "en": "Dusk, The Puppeteer",
+  "at": "陸家村:61",
+  "main": false,
+  "hp": "62,520",
+  "tips": [
+   "解鎖：收齊 6 朵螢火記憶之花→清掉寺旁屋內的霧→跳入破碎傀儡坑。",
+   "剩 40% 血他會退開，出現紅眼分身（約 20,840）：先殺分身，本體（黑臉）血量會降到約 15,630。",
+   "巨型人偶女的掌擊／手臂橫掃左右閃；懸空手紅光閃、藍光招架。",
+   "先清人偶群（每隻 880）；苦葉寺珠串召喚很有用。"
+  ],
+  "reward": "傀儡師鈴影之武裝、幻術琵琶琴頭",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-dusk-boss-fight/"
+  ]
+ },
+ {
+  "id": "yuzan",
+  "name": "三號·樂師偶「玉瓚」",
+  "en": "Yuzan, No. 3 Musician Puppet",
+  "at": "陸家村:65",
+  "main": true,
+  "hp": "52,100",
+  "tips": [
+   "她會不斷後跳拉開距離。",
+   "紅色刀刃齊射：晚一點閃；藍刃接紅刃＝連閃兩次。",
+   "白色光球可精準招架反彈，離她越遠反彈越痛。",
+   "暗青色吸引球：立刻跑到場地邊緣，後續是抓取或爆炸，補血救不回。",
+   "苦葉寺珠串的僧人能有效牽制。"
+  ],
+  "reward": "斷腸琵琶影之武裝",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-yuzan-boss-fight/"
+  ]
+ },
+ {
+  "id": "muxiaokui",
+  "name": "「組織」少主：沐小葵",
+  "en": "Mu Xiaokui, Young Mistress of the Order",
+  "at": "陸家村:68",
+  "main": true,
+  "hp": "46,890 → 鐵玉女王 62,520 → 玉妖／鐵鬼 各 41,680",
+  "tips": [
+   "⚠ 上升降梯前完成「大小姐」緞帶（5 條）才有第三階段與額外掉落；戰後碼頭 #69–70 要立刻拿。",
+   "跳斬／白色突進：連閃兩次，中間留一拍；紅色旋轉連段看到光環就離開；延遲重擊在揮下時閃。",
+   "二階段紫光＝召喚物攻擊，不要反擊，閃開等它結束。",
+   "三階段先殺鐵鬼，兩個都保持在畫面前方；追命鎖鐮可同時打到兩隻。",
+   "推薦：亡命斬馬刀＋貪狼，提升純殺氣上限；妙手千鈞、筋力綁帶、渾源經脈儀。"
+  ],
+  "reward": "四十四號人偶之眼（通往龐鎮）、拳之碎片：核、妖鋸",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-mu-xiaokui-boss-fight/",
+   "https://www.method.gg/phantom-blade-zero/phantom-blade-zero-how-to-beat-mu-xiaokui-and-jade-dancer-iron-fiend"
+  ]
+ },
+ {
+  "id": "blaze",
+  "name": "鬼差隊長：火流星",
+  "en": "Blaze, Shadow Warden Captain",
+  "at": "龐鎮:7",
+  "main": true,
+  "hp": "48,560 → 磷火意識 60,700",
+  "tips": [
+   "戰前在鈴鐺旁寶箱拿「避火符」：火焰傷害與燃燒減半。",
+   "一階：香爐鞭擊與藍光連段招架；紅光砸地不可招架要閃，在他跳起時閃可造成大量削韌；叫小兵時用珠串或鎖鐮。",
+   "二階綠火：地裂變火圈要離開；天上火環延遲砸下，後退或跳過。",
+   "⚠ 二階紅光火焰抓取可能一擊秒殺：一律完美閃避，這階段不要招架。",
+   "亡命斬馬刀的爆發技留作緊急補血。"
+  ],
+  "reward": "火流星影之武裝；場地前方的紅色血肉花記得撿",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-blaze-boss-fight/"
+  ]
+ },
+ {
+  "id": "cavalrybane",
+  "name": "鬼差高手：斬騎",
+  "en": "Cavalrybane, Elite Shadow Warden",
+  "at": "龐鎮:18",
+  "main": true,
+  "hp": "62,900＋兩名騎槍兵",
+  "tips": [
+   "三個敵人都保持在畫面前方，騎兵在背後時不要換血。",
+   "紅光低架勢與上方月牙斬：橫向閃（不可招架）；旋轉橫掃後退出範圍；跳擊閃後打收招。",
+   "前滾後會兩刺加終結技：閃掉終結技觸發電影反擊，大量削殺氣。",
+   "裝備斬騎符（對騎乘敵人 +25%）。"
+  ],
+  "reward": "破軍（武器）",
+  "src": [
+   "https://allthings.how/?p=319041"
+  ]
+ },
+ {
+  "id": "wuxuan",
+  "name": "墮落將軍：武軒",
+  "en": "Wu Xuan, The Fallen General",
+  "at": "龐鎮:35",
+  "main": true,
+  "hp": "76,300",
+  "tips": [
+   "約 70% 血召喚瘟氣：地面與鎚子變紫。",
+   "紅光連段：前段格擋或招架，最後一擊閃；紅光抓取在突進時閃。",
+   "紫色波與紫色突進：橫向閃，不要後退；別站在發光地面。",
+   "開場有厚盾，每次招架大幅削盾，歸零後處決狂打；約兩輪結束戰鬥。",
+   "不要退到庭院後緣，會掉到下面巷子。"
+  ],
+  "reward": "狼顎影之武裝、24,000 意識塵埃",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-wu-xuan-boss-fight/"
+  ]
+ },
+ {
+  "id": "guwanyue",
+  "name": "女妖骨婉約",
+  "en": "Gu Wanyue, The Wailing Wraith",
+  "at": "龐鎮:48",
+  "main": true,
+  "hp": "53,410",
+  "tips": [
+   "她把頭埋進手臂（擋住視線）＝馬上退開。",
+   "尖叫不可格擋：閃出範圍；被定身就狂按提示鍵。",
+   "消失後飛撲抓取（683 傷害）：保持距離舉防。",
+   "黑霧無法彈開、紅光不可招架，都要躲；只在招式間隙輸出。",
+   "亡命斬馬刀＋貪狼吸血流打起來很輕鬆。"
+  ],
+  "reward": "癡者殘片：執念、24,000 意識塵埃",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-gu-wanyue-boss-fight/"
+  ]
+ },
+ {
+  "id": "xieqiudong",
+  "name": "神醫：謝秋冬",
+  "en": "Xie Qiudong, The Divine Healer",
+  "at": "龐鎮:52",
+  "main": true,
+  "tips": [
+   "他打中你會回血。",
+   "被綁住的雜兵：打它們他會替其治療並自損。",
+   "先殺可自由行動的雜兵，清完後他幾乎就倒了。",
+   "注意貼地的樹根鞭擊；遠離紅色酒桶（會起火）。"
+  ],
+  "reward": "Everflow 秘藥",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-xie-qiudong-boss-fight/"
+  ]
+ },
+ {
+  "id": "youloong",
+  "name": "水行幫主：游龍",
+  "en": "You Loong, Leader of the Blackwater Crew",
+  "at": "龐鎮:63",
+  "main": true,
+  "hp": "78,750",
+  "tips": [
+   "三叉戟橫掃與刺擊招架；突刺距離很長，後退躲不掉。",
+   "水泡直線攻擊：橫向閃。",
+   "腳下出現漩渦＝他要從身邊冒出，立刻閃。",
+   "不要跑上階梯街，會引來劍客群。"
+  ],
+  "reward": "游龍頭（打舞獅尊主必備，也能滅火障）",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-you-loong-boss-fight/"
+  ]
+ },
+ {
+  "id": "changhong",
+  "name": "「雷槍」：長鴻",
+  "en": "Chang Hong, The Thunder Spear",
+  "at": "龐鎮:69",
+  "main": true,
+  "hp": "78,750 → 騎馬 87,500",
+  "tips": [
+   "⚠ 對面建築的老人（#70）要先救：需要悲泣溪谷的血肉花。",
+   "雷擊召喚：離開腳下圓圈，會累積麻痺；麻痺快滿喝青蛇藥劑。",
+   "一階七段連擊與旋轉突進的最後一擊是紅光：閃後反擊；藍光突刺招架；紅光抓取閃。",
+   "二階騎馬雨中：繞圈衝鋒橫向閃，騎槍突刺點格擋。",
+   "避雷符＋斬騎符；18183 建議二階前死一次換上斬騎符也值得。"
+  ],
+  "reward": "雷槍影之武裝",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-chang-hong-boss-fight/"
+  ]
+ },
+ {
+  "id": "flame",
+  "name": "被面具控制的舞獅尊主：烈焰",
+  "en": "Flame, The Mask-Bound Lion Dance Grandmaster",
+  "at": "龐鎮:75",
+  "main": true,
+  "hp": "88,830 → 98,700",
+  "tips": [
+   "建議先打游龍拿游龍頭：用它把他澆濕，火焰招式會失效。",
+   "火焰噴射不可格擋：橫向衝刺。藍光起手招架、紅光閃。",
+   "梅花樁火球對決：藍光時把火球反彈讓他硬直；紅光他會直劈下來。反覆對拼直到一方殺氣破。",
+   "最後處決他的「嚯嚯」動作就能擊倒；黑光攻擊後接突刺。",
+   "帶避火符。"
+  ],
+  "reward": "沉睡炎鬃（雷當修復後成為炎鬃影之武裝，可燒樹枝）",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-lion-dance-grandmaster-boss-fight/"
+  ]
+ },
+ {
+  "id": "soulclaimer",
+  "name": "鬼差高手：勾魂",
+  "en": "Soulclaimer, Elite Shadow Warden",
+  "at": "龐鎮:91",
+  "main": false,
+  "hp": "76,300 / 116,280",
+  "tips": [
+   "刀身發光的反擊架勢：此時攻擊會被反擊並幫他回殺氣，等架勢結束。",
+   "亡命斬馬刀＋貪狼就夠用。"
+  ],
+  "reward": "別離殘鉤（武器）",
+  "note": "招式資料不足",
+  "src": [
+   "https://www.18183.com/gonglue/202610/9073424_6.html"
+  ]
+ },
+ {
+  "id": "leiting",
+  "name": "滅法之法：雷婷",
+  "en": "Acolyte Lei Ting",
+  "at": null,
+  "ch": "龐鎮",
+  "main": false,
+  "tips": [
+   "龐鎮隱藏挑戰（稻草人系列）。"
+  ],
+  "note": "位置與打法資料待補"
+ },
+ {
+  "id": "xiaoxue",
+  "name": "吞噬屍體的小雪",
+  "en": "Corpse-Eating Xue",
+  "at": "正道大營:11",
+  "main": false,
+  "tips": [
+   "擊敗後自動接「崇拜大俠的小雪」。"
+  ],
+  "note": "打法資料待補"
+ },
+ {
+  "id": "wanjun",
+  "name": "巨錘客：萬鈞",
+  "en": "Wan Jun, The Coppermaul",
+  "at": "正道大營:21",
+  "main": true,
+  "tips": [
+   "取得長柄金瓜後可敲碎特定地板，先回頭補兩處。"
+  ],
+  "reward": "長柄金瓜影之武裝",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "red",
+  "name": "紅衣女劍客",
+  "en": "Red, The Mysterious Swordswoman",
+  "at": "正道大營:28",
+  "main": false,
+  "tips": [
+   "⚠ 第一次遇到不要殺她：讓她在七星劍陣大師兄第二階段參戰，才拿得到 #33–34。"
+  ]
+ },
+ {
+  "id": "qixing",
+  "name": "七星劍陣：大師兄",
+  "en": "Chief Disciple of the Seven-Stars Formation",
+  "at": "正道大營:31",
+  "main": true,
+  "tips": [
+   "若之前沒殺紅衣女劍客，她會在第二階段加入。"
+  ],
+  "reward": "劍客召喚影之武裝",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "wulengshuang",
+  "name": "軟劍：烏冷霜",
+  "en": "Wu Lengshuang, The Soft Sword",
+  "at": "正道大營:45",
+  "main": true,
+  "tips": [
+   "⚠ 「白山秘聞」：打完要先上樓調查花田屍體，才能去打校場的玉璧。"
+  ],
+  "reward": "靈蛇軟劍、黑石碎片",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "yubi",
+  "name": "廿一號·劍偶「玉璧」",
+  "en": "Yubi, No. 21 Swordfighter Puppet",
+  "at": "正道大營:53",
+  "main": true,
+  "tips": [
+   "⚠ 開打前確認白山秘聞的花田調查已完成，否則任務失敗。"
+  ],
+  "reward": "白山風雷劍",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "zhuyuan",
+  "name": "火刀：祝原",
+  "en": "Zhu Yuan, The Searing Blade",
+  "at": "梅谷湖:5",
+  "main": true,
+  "note": "打法資料待補",
+  "reward": "烈焰線索"
+ },
+ {
+  "id": "yanqiansui",
+  "name": "琴女：煙千歲",
+  "en": "Yan Qiansui, The Zither Maiden",
+  "at": "梅谷湖:18",
+  "main": true,
+  "tips": [
+   "拿到琵琶弦後，三件零件湊齊就立刻回龐鎮幻鬼酒館修復幻術琵琶（真結局必需）。"
+  ],
+  "reward": "執念鑄魂材料、幻術琵琶弦",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "jin",
+  "name": "悲痛欲絕的阿瑾",
+  "en": "Grief-Stricken Jin",
+  "at": "梅谷湖:21",
+  "main": false,
+  "reward": "繡鞋材料、胭脂盒",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "guhe",
+  "name": "滅法之法：古河",
+  "en": "Acolyte Guhe",
+  "at": "梅谷湖:37",
+  "main": false,
+  "tips": [
+   "稻草人隱藏挑戰。"
+  ],
+  "reward": "毒面具",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "youloong2",
+  "name": "狂暴水行幫主：游龍",
+  "en": "You Loong, The Frenzied",
+  "at": "梅谷湖:40",
+  "main": true,
+  "tips": [
+   "龐鎮游龍強化版；兩次都打贏有成就。"
+  ],
+  "reward": "龍三叉戟",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "heartpiercer",
+  "name": "鬼差高手：穿心",
+  "en": "Heartpiercer, Elite Shadow Warden",
+  "at": "梅谷湖:57",
+  "main": false,
+  "tips": [
+   "需要各蛇屋收齊的龍紋陰陽徽章才能開門。"
+  ],
+  "reward": "裂雙斧",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "oneeye",
+  "name": "獨眼弓客",
+  "en": "One-Eyed Archer",
+  "at": "梅谷湖:61",
+  "main": false,
+  "reward": "獨眼弓影之武裝",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "blizzard",
+  "name": "風雪刀客",
+  "en": "Blizzard Blademaster",
+  "at": "梅谷湖:96",
+  "main": true,
+  "tips": [
+   "戰後在場上雕像放入陰、陽兩顆傀儡眼，可進隱藏領域（#97）。"
+  ],
+  "note": "打法資料待補"
+ },
+ {
+  "id": "tiesha",
+  "name": "鐵殺",
+  "en": "Iron Butcher, The Frenzied Brute",
+  "at": "枷籠山:3",
+  "main": true,
+  "reward": "鐵殺面具材料",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "bifeng",
+  "name": "橫刀：畢峰",
+  "en": "Bi Feng, Giant Saber Commander",
+  "at": "枷籠山:14",
+  "main": true,
+  "tips": [
+   "戰後回牢房武林人士處推進「橫刀」。"
+  ],
+  "reward": "巨刃",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "kuiyanyan",
+  "name": "瘋婆子奎艷艷",
+  "en": "Kui Yanyan, The Deranged",
+  "at": "枷籠山:21",
+  "main": true,
+  "reward": "殺氣琥珀、升降梯手柄",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "ironmask",
+  "name": "鐵面刺客",
+  "en": "Ironmask Assassin",
+  "at": "枷籠山:25",
+  "main": false,
+  "tips": [
+   "⚠ 「贖罪名單」對話必選「這不能洗清你的罪孽」才會開戰，並開啟白雪兒路線（龐鎮 #106–108）。"
+  ],
+  "note": "打法資料待補"
+ },
+ {
+  "id": "jadeface",
+  "name": "玉面郎君",
+  "en": "Jade-Face",
+  "at": "枷籠山:32",
+  "main": true,
+  "reward": "無縫之死",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "huangxing",
+  "name": "崑崙叛教者：荒行子",
+  "en": "Huangxing, The Kunlun Renegade",
+  "at": "枷籠山:35",
+  "main": true,
+  "tips": [
+   "戰場用飛天血滴子開隱藏通道到最下層（#36 虛空光扇）。"
+  ],
+  "reward": "飛天血滴子影之武裝",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "yuding",
+  "name": "十二號·偃月刀偶「玉鼎」",
+  "en": "Yuding, No. 12 Crescent Blade Puppet",
+  "at": "戲夢山莊:21",
+  "main": true,
+  "reward": "偃月刀",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "qiufeng",
+  "name": "赤影骨刃：囚鋒",
+  "en": "Qiu Feng, The Crimson Boneblade",
+  "at": "戲夢山莊:30",
+  "main": true,
+  "reward": "鬼面飾品",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "moyuan",
+  "name": "暗魔天堡之主：魔淵",
+  "en": "Mó Yuan",
+  "at": "戲夢山莊:36",
+  "main": false,
+  "tips": [
+   "第五龍柱的對手（PBZH）；打贏並完成前四根龍柱才結算「血脈覺醒」。"
+  ],
+  "note": "打法資料待補"
+ },
+ {
+  "id": "leidang",
+  "name": "「虎炮」：雷當",
+  "en": "Lei Dang, The Tiger Cannon",
+  "at": "戲夢山莊:54",
+  "main": true,
+  "tips": [
+   "打贏拿虎炮後，先回舊區炸四處裂牆，再往斷魂山。"
+  ],
+  "reward": "虎炮影之武裝",
+  "note": "打法資料待補"
+ },
+ {
+  "id": "crusher",
+  "name": "力者和鋸者",
+  "en": "The Crusher and The Saw",
+  "at": "斷魂山:13",
+  "main": true,
+  "hp": "185,100",
+  "tips": [
+   "⚠ 開打前完成「小翠」，否則拿不到白山頭帶（#14）。",
+   "紅光重擊（手臂、鎖鏈發紅）和鋸者長槍突刺（槍身紅光）：一律閃，不要招架。",
+   "球砸地揚起雪霧，巨人隱身 2–3 秒，先拉開距離。",
+   "二階段巨人破冰獨自作戰：更兇但更脆，新增貼地拖球。"
+  ],
+  "reward": "骨鋸；白山頭帶（需小翠）",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-crusher-and-the-saw-boss-fight/"
+  ]
+ },
+ {
+  "id": "lengtu",
+  "name": "夢差：冷荼",
+  "en": "Leng Tu",
+  "at": "斷魂山:18",
+  "main": true,
+  "tips": [
+   "夢華前的戰鬥。PBZH：結局分歧在開打冷荼時決定，開打前存檔。"
+  ],
+  "note": "英文來源未證實；打法資料待補"
+ },
+ {
+  "id": "menghua",
+  "name": "救苦救難夢華聖母娘娘",
+  "en": "Meng Hua, The Merciful Lady of the Blossom Veil",
+  "at": "斷魂山:18",
+  "main": true,
+  "hp": "185,100",
+  "tips": [
+   "開打前在斷魂崖鈴鐺休息。",
+   "沒有安全距離：浮空時射紅色光矛；雪地紅圈會變光柱，站上去前離開。",
+   "長槍插地的火環、近身扇子橫掃、雷擊、沿地面的藍色冰波。",
+   "可擊倒一次（Finish her!）。"
+  ],
+  "reward": "聖母之扇、聖母之冠、使者殘留絲線",
+  "note": "各招式招架／閃避顏色資料不足",
+  "src": [
+   "https://allthings.how/phantom-blade-zero-meng-hua-boss-fight/"
+  ]
+ },
+ {
+  "id": "zuoshang",
+  "name": "「組織」冥主：左殤",
+  "en": "Zuo Shang, The Order's Shadow Sovereign",
+  "at": "斷魂山:22",
+  "main": true,
+  "hp": "一階 → 真龍之軀 240,630",
+  "tips": [
+   "真結局限定：打完夢華後在墜夢鈴鐺附近的金色光柱按 E。",
+   "先在「舊宅幻影」鈴鐺休息，死亡後不用重看過場。",
+   "一階：起身時的金色光爆是開戰信號；鞭刃弧斬、延長刀身突刺、繞身插落的飛劍、跳斬、低位環掃。",
+   "二階真龍之軀：俯衝、光錐、水面光束、龍魂、月牙斬、擴散金環、落刃。",
+   "⚠ 俯衝後刀陣鎖定你時，必須按白色 E 提示，否則即死；結尾是刀劍對拼 QTE。"
+  ],
+  "reward": "金烏、殘破龍軀、光明之心",
+  "src": [
+   "https://allthings.how/?p=327230"
+  ]
+ }
+]

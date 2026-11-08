@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
-"""把 src/guide.html 打包成 PWA，輸出到 docs/（可直接當 GitHub Pages 網站根目錄）。
+"""影之刃零攻略本 V12：把 content/ 的資料＋app/ 的介面打包成 PWA，輸出到 docs/（GitHub Pages）。
 
 更新流程：
-  1. 用新版攻略 HTML 覆蓋 src/guide.html（或直接編輯它）
-  2. python3 build.py
-  3. 上傳／推送 docs/ —— 已安裝的 App 下次開啟會跳出「攻略本有新版本」
+  1. 改 content/ 下的資料：chapters.md（路線）、points.json（612 點位）、bosses.json、quests.json
+  2. python3 build.py   ← 會檢查每個點位剛好出現一次、Boss／支線引用都存在
+  3. git add -A && git commit -m "更新攻略" && git push
 """
 import hashlib, json, math, re, struct, zlib, datetime, pathlib, sys
 
 ROOT = pathlib.Path(__file__).resolve().parent
-SRC, PWA, OUT = ROOT / "src" / "guide.html", ROOT / "pwa", ROOT / "docs"
+APP, CONTENT, PWA, OUT = ROOT / "app", ROOT / "content", ROOT / "pwa", ROOT / "docs"
 
 NAME = "影之刃零 全流程攻略本"
 SHORT = "影之刃零攻略"
@@ -96,12 +96,74 @@ def make_icons(d):
     png(d / "apple-touch-icon.png", 180, 180, scale(mk, 512, 180))  # iOS 不吃透明，用滿版
 
 
+# ---------- 內容解析與檢查 ----------
+def parse_chapters(text, points):
+    text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
+    chapters, ch, seg, errs, seen = [], None, None, [], {}
+    for ln, raw in enumerate(text.splitlines(), 1):
+        line = raw.strip()
+        if not line: continue
+        if line.startswith("# "):
+            cid, title, en = [x.strip() for x in line[2:].split("|")]
+            short = "序章" if title.startswith("序章") else (title.split("：", 1)[1] if "：" in title else title)
+            num = cid[2:]
+            ch = {"id": cid, "title": title, "en": en, "short": short, "intro": [], "segs": [],
+                  "navTitle": num + " " + ("序章" if title.startswith("序章") else (title.split("：", 1)[1] if "：" in title else title))}
+            chapters.append(ch); seg = None; continue
+        if ch is None: errs.append(f"第 {ln} 行：章節標題之前有內容"); continue
+        tgt = seg["blocks"] if seg else ch["intro"]
+        if line.startswith("## "):
+            seg = {"title": line[3:].strip(), "blocks": []}; ch["segs"].append(seg); continue
+        if line.startswith("@ "):
+            m = re.match(r"@ (\S+) (\d+)-(\d+)$", line)
+            if not m or m.group(1) not in points: errs.append(f"第 {ln} 行：點位語法錯誤 {line}"); continue
+            r, a, b = m.group(1), int(m.group(2)), int(m.group(3))
+            ns = {p["n"] for p in points[r]["points"]}
+            for n in range(a, b + 1):
+                if n not in ns: errs.append(f"第 {ln} 行：{r} 沒有 #{n}")
+                if (r, n) in seen: errs.append(f"第 {ln} 行：{r} #{n} 重複（第 {seen[(r, n)]} 行已出現）")
+                seen[(r, n)] = ln
+            tgt.append({"t": "pts", "r": r, "a": a, "b": b}); continue
+        if line.startswith("! "): tgt.append({"t": "warn", "s": line[2:]}); continue
+        if line.startswith("> "): tgt.append({"t": "tip", "s": line[2:]}); continue
+        if line.startswith("- [ ] "):
+            s_ = line[6:]; tgt.append({"t": "step", "s": s_, "k": f"v12:s:{ch['id']}:{hashlib.sha1(s_.encode()).hexdigest()[:6]}"}); continue
+        tgt.append({"t": "p", "s": line})
+    for r, v in points.items():
+        for p in v["points"]:
+            if (r, p["n"]) not in seen: errs.append(f"遺漏：{r} #{p['n']} 沒有放進任何章節")
+    return chapters, errs
+
+def load_guide():
+    points = json.loads((CONTENT / "points.json").read_text(encoding="utf-8"))
+    bosses = json.loads((CONTENT / "bosses.json").read_text(encoding="utf-8"))
+    quests = json.loads((CONTENT / "quests.json").read_text(encoding="utf-8"))
+    chapters, errs = parse_chapters((CONTENT / "chapters.md").read_text(encoding="utf-8"), points)
+    ref = lambda s: (lambda r, n: r in points and any(p["n"] == int(n) for p in points[r]["points"]))(*s.split(":"))
+    shorts = {c["short"] for c in chapters}
+    for b in bosses:
+        if b.get("at") and not ref(b["at"]): errs.append(f"Boss {b['id']}：找不到位置 {b['at']}")
+        if not b.get("at") and b.get("ch") not in shorts: errs.append(f"Boss {b['id']}：ch「{b.get('ch')}」不是章節名")
+    for q in quests:
+        if q.get("start") and not ref(q["start"]): errs.append(f"支線 {q['id']}：找不到接取點 {q['start']}")
+    ids = [b["id"] for b in bosses] + [q["id"] for q in quests]
+    for d in {x for x in ids if ids.count(x) > 1}: errs.append(f"id 重複：{d}")
+    if errs:
+        print("內容檢查失敗：\n  " + "\n  ".join(errs)); sys.exit(1)
+    return {"chapters": chapters, "points": points, "bosses": bosses, "quests": quests}
+
+
 # ---------- 組裝 ----------
 def main():
-    html = SRC.read_text(encoding="utf-8")
+    guide = load_guide()
     css, js, sw = [(PWA / f).read_text(encoding="utf-8") for f in ("pwa.css", "pwa.js", "sw.js")]
-    digest = hashlib.sha256((html + css + js + sw + SVG).encode()).hexdigest()[:7]
+    tpl, acss, ajs = [(APP / f).read_text(encoding="utf-8") for f in ("index.html", "app.css", "app.js")]
+    gjson = json.dumps(guide, ensure_ascii=False, separators=(",", ":"))
+    digest = hashlib.sha256((tpl + acss + ajs + gjson + css + js + sw + SVG).encode()).hexdigest()[:7]
     version = f"{datetime.date.today():%Y.%m.%d}-{digest}"
+    guide["meta"] = {"version": version, "date": f"{datetime.date.today():%Y-%m-%d}"}
+    gjson = json.dumps(guide, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+    html = tpl.replace("/*APP_CSS*/", acss).replace("/*GUIDE_JSON*/", gjson).replace("/*APP_JS*/", ajs)
 
     head = f"""<meta name="theme-color" content="{THEME}"/>
 <meta name="description" content="影之刃零 電腦版全流程攻略：九區路線、收集、Boss 詳解、地圖對照，可離線閱讀"/>
