@@ -75,5 +75,11 @@ table{width:100%;border-collapse:collapse;font-size:14px}td,th{border-bottom:1px
 .navbtns button{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:10px 14px;cursor:pointer}
 .res{padding:10px 12px;border-radius:9px;background:var(--panel);margin:6px 0;cursor:pointer}.res:hover{background:var(--panel2)}
 .res small{color:var(--muted)}
+.fab{position:fixed;right:18px;bottom:calc(18px + env(safe-area-inset-bottom,0px));z-index:60;background:#5a4430;border:1px solid #a37b4f;color:#f5dcb9;border-radius:28px;padding:11px 16px;font-size:14px;cursor:pointer;box-shadow:0 6px 20px #0009;display:flex;gap:6px;align-items:center}
+.fab:hover{background:#6c5139}
+.mini-toast{position:fixed;left:50%;top:20px;transform:translateX(-50%);background:#2a2219;border:1px solid #a37b4f;color:#f5dcb9;border-radius:10px;padding:10px 16px;z-index:99}
+.wrap{padding-bottom:110px}
+@media(max-width:950px){.fab span{display:none}.fab{padding:14px 16px;font-size:16px}}
+@media print{.fab{display:none}}
 @media(max-width:950px){.app{display:block}.sidebar{height:auto;overflow:visible}.wrap{padding:14px 16px 80px}h1{font-size:24px}nav .grp{display:none}.toolbar{position:static;border:0;padding:0}.chip{padding:5px 10px;font-size:12px}}
 @media print{.sidebar,.toolbar,.navbtns{display:none}.app{display:block}.pt,.step{break-inside:avoid}body{background:#fff;color:#000}}

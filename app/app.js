@@ -29,7 +29,7 @@ function point(p){
   const id=p.r+':'+p.n, ok=!!S[p.k];
   const qs=(qStart[id]||[]).map(q=>`<span class="badge b-q" data-q="${q.id}">📜 ${esc(q.name)}</span>`).join('');
   const name=p.zh||'';
-  return `${(bossAt[id]||[]).map(bossCard).join('')}<div class="pt${p.miss?' miss':''}${ok?' ok':''}" id="p-${esc(p.r)}-${p.n}" data-miss="${p.miss?1:0}"><input type="checkbox" data-k="${esc(p.k)}" ${ok?'checked':''} aria-label="${esc(p.r)} #${p.n}"><div><div class="top"><span class="num">${esc(p.r)} #${p.n}</span><span class="ty t-${esc(p.type)}">${esc(p.type)}</span>${p.chest?'<span class="badge b-chest">寶箱</span>':''}${p.miss?'<span class="badge b-miss">⚠ 易錯過</span>':''}${qs}${name?`<span class="nm">${esc(name)}</span>`:''}</div><div class="hint">${esc(p.hint)}</div>${p.en?`<div class="en">${esc(p.en)} · <a href="https://www.powerpyx.com/phantom-blade-zero-${SLUG[p.r]}-collectible-locations/" target="_blank" rel="noopener">PowerPyx 圖文 ↗</a></div>`:''}</div></div>`;
+  return `${(bossAt[id]||[]).map(bossCard).join('')}<div class="pt${p.miss?' miss':''}${ok?' ok':''}" id="p-${esc(p.r)}-${p.n}" data-miss="${p.miss?1:0}"><input type="checkbox" data-k="${esc(p.k)}" ${ok?'checked':''} aria-label="${esc(p.r)} #${p.n}"><div><div class="top"><span class="num">${esc(p.r)} #${p.n}</span><span class="ty t-${esc(p.type)}">${esc(p.type)}</span>${p.chest?'<span class="badge b-chest">寶箱</span>':''}${p.miss?'<span class="badge b-miss">⚠ 易錯過</span>':''}${qs}${name?`<span class="nm">${esc(name)}</span>`:''}</div><div class="hint">${esc(p.hint)}</div><div class="en">${esc(p.en||'')}${p.en?' · ':''}<a href="${esc(p.link||`https://www.powerpyx.com/phantom-blade-zero-${SLUG[p.r]}-collectible-locations/`)}" target="_blank" rel="noopener">看原圖 #${p.n} ↗</a></div></div></div>`;
 }
 function block(b){
   switch(b.t){
@@ -162,6 +162,24 @@ function search(){
   Object.values(P).forEach(p=>{if((p.hint+p.en+p.zh+p.type).toLowerCase().includes(s))out.push(`<div class="res" data-jump="p-${esc(p.r)}-${p.n}" data-ch="${ptCh[p.r+':'+p.n]}"><b>${esc(p.r)} #${p.n}</b> <span class="ty t-${esc(p.type)}">${esc(p.type)}</span> <small>${esc(p.hint.slice(0,70))}</small></div>`)});
   view.innerHTML=`<h1>搜尋「${esc(qi.value)}」</h1><p class="p">${out.length} 筆結果</p>${out.slice(0,200).join('')}`;
 }
+// 下一個未完成：目前章節的第一個未勾項目；本章完成就往後找有未完成的章節
+function nextTodo(){
+  const visible=()=>[...view.querySelectorAll('.pt:not(.ok),.step:not(.ok)')].find(el=>!el.classList.contains('hidden'));
+  const isCh=G.chapters.some(c=>c.id===cur);
+  let el=isCh&&visible();
+  if(!el){
+    const i=Math.max(0,G.chapters.findIndex(c=>c.id===cur));
+    const order=G.chapters.slice(isCh?i+1:0).concat(G.chapters.slice(0,isCh?i+1:0));
+    const ch=order.find(c=>c.keys.some(k=>!S[k]));
+    if(!ch){toast('全部完成！🎉');return}
+    if(filt.todo||filt.miss){filt.todo=false;filt.miss=false;saveF()}
+    go(ch.id);el=visible();if(!el)return;
+  }
+  el.scrollIntoView({block:'center',behavior:'smooth'});el.classList.remove('flash');void el.offsetWidth;el.classList.add('flash');
+}
+function toast(t){const d=document.createElement('div');d.className='mini-toast';d.textContent=t;document.body.appendChild(d);setTimeout(()=>d.remove(),2200)}
+const fab=document.createElement('button');fab.className='fab no-print';fab.id='fNext';fab.title='跳到下一個未完成';fab.innerHTML='▶<span>下一個未完成</span>';
+fab.onclick=nextTodo;document.body.appendChild(fab);
 addEventListener('hashchange',()=>{const h=location.hash.slice(1);if(h&&h!==cur)go(h)});
 // 手機版：讓工具列貼在側欄下方
 const fixNavH=()=>document.documentElement.style.setProperty('--navh',(innerWidth<=950?document.querySelector('.sidebar').offsetHeight:0)+'px');
